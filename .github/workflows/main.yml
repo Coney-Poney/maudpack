@@ -21,7 +21,9 @@ jobs:
           env
           ls -la
       - name: Produce .mrpack
-        run: ./packwiz mr export
+        run: |
+          chmod +x ./packwiz
+          ./packwiz mr export
       - name: Upload Artifact
         uses: actions/upload-artifact@v3.1.2
         with:
