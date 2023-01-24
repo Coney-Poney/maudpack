@@ -19,7 +19,7 @@ jobs:
       - name: Produce .mrpack
         run: |
           chmod +x ./packwiz
-          ./packwiz mr export
+          ./packwiz mr export -o workingtitle-modpack-git-${{github.sha}}.mrpack
       - name: Upload Artifact
         uses: kittaakos/upload-artifact-as-is@v0
         with:
