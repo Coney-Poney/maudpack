@@ -16,16 +16,11 @@ jobs:
           name: Linux 64-bit x86
           latest: true
           path: ./
-      - name: run some diagnostic junk to get an idea of the directory structure
-        run: |
-          env
-          ls -la
       - name: Produce .mrpack
         run: |
           chmod +x ./packwiz
           ./packwiz mr export
       - name: Upload Artifact
-        uses: actions/upload-artifact@v3.1.2
+        uses: kittaakos/upload-artifact-as-is@v0
         with:
-          name: mrpack
           path: ./*.mrpack
