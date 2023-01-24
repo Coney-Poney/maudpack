@@ -1,0 +1,29 @@
+name: Publish .mrpack file
+on:
+  push:
+    branches: [ master ]
+
+jobs: 
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download latest verison of Packwiz
+        uses: aochmann/actions-download-artifact@1.0.4
+        with:
+          repo: packwiz/packwiz
+          name: Linux 64-bit x86
+          latest: true
+      - name: Unzip packwiz
+        run: |
+          sudo apt-get update
+          sudo apt-get install unzip
+          unzip ./"Linux 64-bit x86.zip"
+      - name: Checkout
+        uses: actions/checkout@v3.3.0
+      - name: Produce .mrpack
+        run: packwiz mr export
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v3.1.2
+        with:
+          name: mrpack
+          path: ./*.mrpack
