@@ -15,6 +15,10 @@ jobs:
           latest: true
       - name: Checkout
         uses: actions/checkout@v3.3.0
+      - name: run some diagnostic junk to get an idea of the directory structure
+        run: |
+          env
+          ls -la
       - name: Produce .mrpack
         run: ./packwiz mr export
       - name: Upload Artifact
