@@ -7,6 +7,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: short-sha
+        uses: benjlevesque/short-sha@v1.2
       - name: Checkout
         uses: actions/checkout@v3.3.0
       - name: Download latest verison of Packwiz
@@ -19,7 +21,7 @@ jobs:
       - name: Produce .mrpack
         run: |
           chmod +x ./packwiz
-          ./packwiz mr export -o workingtitle-modpack-git-${{github.sha}}.mrpack
+          ./packwiz mr export -o workingtitle-modpack-git-${{ env.SHA }}.mrpack
       - name: Upload Artifact
         uses: kittaakos/upload-artifact-as-is@v0
         with:
