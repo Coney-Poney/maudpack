@@ -13,6 +13,7 @@ jobs:
           repo: packwiz/packwiz
           name: Linux 64-bit x86
           latest: true
+          path: ./
       - name: Checkout
         uses: actions/checkout@v3.3.0
       - name: run some diagnostic junk to get an idea of the directory structure
