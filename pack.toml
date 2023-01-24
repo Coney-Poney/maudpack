@@ -1,12 +1,12 @@
 name = "workingtitle-modpack"
 author = "Coney Poney"
-version = "1.0.0"
+version = "dev"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8b1dc8ba808e95f2a072cccedb9034047a81d3a5da00fbf36d305c2c1926ecf6"
+hash = "23f94bd0712a47b35a3a58772014157c1729b2dafb57956769e0f58519e3229a"
 
 [versions]
 minecraft = "1.19.2"
