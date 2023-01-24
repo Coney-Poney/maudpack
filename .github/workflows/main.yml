@@ -13,11 +13,6 @@ jobs:
           repo: packwiz/packwiz
           name: Linux 64-bit x86
           latest: true
-      - name: Unzip packwiz
-        run: |
-          sudo apt-get update
-          sudo apt-get install unzip
-          unzip ./"Linux 64-bit x86.zip"
       - name: Checkout
         uses: actions/checkout@v3.3.0
       - name: Produce .mrpack
