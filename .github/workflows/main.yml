@@ -7,6 +7,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v3.3.0
       - name: Download latest verison of Packwiz
         uses: aochmann/actions-download-artifact@1.0.4
         with:
@@ -14,8 +16,6 @@ jobs:
           name: Linux 64-bit x86
           latest: true
           path: ./
-      - name: Checkout
-        uses: actions/checkout@v3.3.0
       - name: run some diagnostic junk to get an idea of the directory structure
         run: |
           env
