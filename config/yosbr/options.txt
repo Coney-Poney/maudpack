@@ -1,0 +1,6 @@
+enableVsync:false
+maxFps:200
+autoJump:false
+autoSuggestions:false
+renderDistance:16
+simulationDistance:16
