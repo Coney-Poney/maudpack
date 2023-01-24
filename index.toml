@@ -64,6 +64,11 @@ hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
 metafile = true
 
 [[files]]
+file = "mods/figura.pw.toml"
+hash = "552559fc09df74f383b3090a7b205a8c60704950e7f65f218c2e795b4fb176fe"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "784f2f9d83342810ceafb5b6b7ddfec867ce807b7498d32e656a924f97a8009d"
 metafile = true
