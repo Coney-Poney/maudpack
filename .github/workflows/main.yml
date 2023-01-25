@@ -27,7 +27,7 @@ jobs:
         with:
           filename: workingtitle-modpack-git-${{ env.TRIMMED_SHA }}.mrpack
           webhook-url: ${{ secrets.DISCORD_WEBHOOK }}
-          content: "Order up! (commit: https://github.com/Coney-Poney/workingtitle-modpack/commit/${{github.sha}}"
+          content: "Order up!\nCommit Message: ${{ github.event.head_commit.message }}"
           avatar-url: https://cdn.discordapp.com/emojis/1059511529415917670.png
       - name: Upload Artifact
         uses: kittaakos/upload-artifact-as-is@v0
