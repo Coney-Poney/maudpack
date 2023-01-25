@@ -22,12 +22,12 @@ jobs:
         run: |
           chmod +x ./packwiz
           ./packwiz mr export -o workingtitle-modpack-git-${{ env.TRIMMED_SHA }}.mrpack
-      - name: Send file README.md to discord channel
+      - name: Send .mrpack to discord channel
         uses: tsickert/discord-webhook@v5.3.0
         with:
           filename: workingtitle-modpack-git-${{ env.TRIMMED_SHA }}.mrpack
           webhook-url: ${{ secrets.DISCORD_WEBHOOK }}
-          content: "Order up! (commit: https://github.com/Coney-Poney/workingtitle-modpack/commit/${{ GITHUB_SHA }})"
+          content: "Order up! (commit: https://github.com/Coney-Poney/workingtitle-modpack/commit/${{github.sha}}"
           avatar-url: https://cdn.discordapp.com/emojis/1059511529415917670.png
       - name: Upload Artifact
         uses: kittaakos/upload-artifact-as-is@v0
