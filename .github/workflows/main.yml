@@ -20,7 +20,12 @@ jobs:
         run: |
           chmod +x ./packwiz
           ./packwiz mr export -o workingtitle-modpack-git-$(printf $SHA | cut -c -7).mrpack
+      - name: Upload to Discord
+        uses: tsickert/discord-webhook@v5.3.0
+        with:
+          filename: ./*.mrpack
+          webhook-url: ${{ secrets.DISCORD_WEBHOOK }}
       - name: Upload Artifact
-        uses: actions/upload-artifact@v3.1.2
+        uses: kittaakos/upload-artifact-as-is@v0
         with:
           path: ./*.mrpack
