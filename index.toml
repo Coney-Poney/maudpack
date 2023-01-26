@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/main.yml"
+hash = "b1e26e497487401a8d96d2da1681950d60caa0cded17f9a976211cdbb25ade47"
+
+[[files]]
 file = "README.md"
-hash = "ac073c2fb5d646b30d21c9b9b4fc55fe4e0178257c1df3b40c6f304754a6894e"
+hash = "08016a49a33bbc587bdf5874949fb888b5f96be5ca33651cfe352bd6cf35ead5"
 
 [[files]]
 file = "config/yosbr/options.txt"
