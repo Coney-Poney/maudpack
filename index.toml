@@ -18,6 +18,11 @@ hash = "242e18d68cb8d218df43e713e97239631f8612384789068659c4898cfa49fcef"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "808c30194a90fce3a57ba82e92333518f3a14a5fdb69c84b5fac247e46557632"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "e8cd685b609577ab23e2a55ec3273a1ff9475daef52f0999b2c5d27f7c795f5c"
 metafile = true
@@ -120,6 +125,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "95968c19d093f7074af27079bc2f7f5fb09f21c2c659355fe8da7ea168e23c84"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "accb90f4206f72fb32cd56c55eee18829033bf3972eeb90575e2aaf61979c6e1"
 metafile = true
 
 [[files]]
