@@ -29,6 +29,10 @@ jobs:
           webhook-url: ${{ secrets.DISCORD_WEBHOOK }}
           content: "Order up!\nCommit Message: ${{ github.event.head_commit.message }}"
           avatar-url: https://cdn.discordapp.com/emojis/1059511529415917670.png
+      - name: Webhook POST Action
+        uses: muinmomin/webhook-action@v1.0.0
+        with:
+          url: ${{ secrets.WEBHOOK_URL}}
       - name: Upload Artifact
         uses: kittaakos/upload-artifact-as-is@v0
         with:
