@@ -23,11 +23,6 @@ hash = "e8cd685b609577ab23e2a55ec3273a1ff9475daef52f0999b2c5d27f7c795f5c"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "f551f7780b8d32345f7c4646137d1ed91fb7f24e3a61d998d6fc5b366f44b4a0"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
