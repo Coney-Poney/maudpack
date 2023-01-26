@@ -23,6 +23,11 @@ hash = "e8cd685b609577ab23e2a55ec3273a1ff9475daef52f0999b2c5d27f7c795f5c"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "f551f7780b8d32345f7c4646137d1ed91fb7f24e3a61d998d6fc5b366f44b4a0"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
@@ -45,6 +50,16 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "c3539f5c0d32666566b8cae83d8ff5ea39d07e1b3a70a43f40aeb8f656f75d72"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "c985bc9064cc29094fdfd59a037baa1523778cc2a9e5665c3f1b6ca0efe6a543"
 metafile = true
 
 [[files]]
@@ -105,21 +120,6 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "95968c19d093f7074af27079bc2f7f5fb09f21c2c659355fe8da7ea168e23c84"
-metafile = true
-
-[[files]]
-file = "mods/qkl.pw.toml"
-hash = "78fe291bc3d50234209d5b80735b469044f4d858dc8d3ba5bc38d1e098cb786f"
-metafile = true
-
-[[files]]
-file = "mods/qsl.pw.toml"
-hash = "52b33bf6600eecca94d7f34b58828fe8969033d68a492abb633bba2394b93cd9"
-metafile = true
-
-[[files]]
-file = "mods/quilt-loading-screen.pw.toml"
-hash = "77aa1af076bfb1175a407037a2d1db80437bae5193db45a557f5f32b3cc4a67f"
 metafile = true
 
 [[files]]
