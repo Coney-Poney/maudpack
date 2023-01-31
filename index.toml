@@ -6,7 +6,7 @@ hash = "7db5a229abf3da7dc635ddfcc6fef4b2f4dae1d27b4b4b47c1cf3ed0ebec5c22"
 
 [[files]]
 file = "README.md"
-hash = "79b62503c143da17e58d87a4f69567a557b0cb772ab2a79b339597153018f2b1"
+hash = "25befb06359204d7a179d56df9e94a03d30cc82e521c0860a6b154a777c27cad"
 
 [[files]]
 file = "config/celestria.json"

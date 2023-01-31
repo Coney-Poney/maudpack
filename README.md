@@ -42,8 +42,8 @@ For more information on how to use Packwiz, visit [their website,](https://packw
 | [FastAnim](https://modrinth.com/mod/fastanim) | Lunade_ | Optimizes Animations |
 | [Fastload](https://modrinth.com/mod/fastload) | FluffyBumblebees | Optimizes Loading Time |
 | [FerriteCore](https://modrinth.com/mod/ferrite-core) | malte0811 | Memory Optimizations |
-| [https://modrinth.com/mod/figura](https://modrinth.com/mod/figura) | francy-chan | Custom Avatars |
-| [https://modrinth.com/mod/guarding](https://modrinth.com/mod/guarding) | ExDrill | Shield Parrying |
+| [Figura](https://modrinth.com/mod/figura) | francy-chan | Custom Avatars |
+| [Guarding](https://modrinth.com/mod/guarding) | ExDrill | Shield Parrying |
 | [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) | RaphiMC | Various Optimizations |
 | [Indium](https://modrinth.com/mod/indium) | comp500 | Fabric Rendering For Sodium |
 | [Jade](https://modrinth.com/mod/jade) | Snownee | Information HUD |
