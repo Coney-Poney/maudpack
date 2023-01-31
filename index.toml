@@ -6,7 +6,11 @@ hash = "7db5a229abf3da7dc635ddfcc6fef4b2f4dae1d27b4b4b47c1cf3ed0ebec5c22"
 
 [[files]]
 file = "README.md"
-hash = "08016a49a33bbc587bdf5874949fb888b5f96be5ca33651cfe352bd6cf35ead5"
+hash = "79b62503c143da17e58d87a4f69567a557b0cb772ab2a79b339597153018f2b1"
+
+[[files]]
+file = "config/celestria.json"
+hash = "4a78ebe78206a0a9cb0dfbf666bffe180be5175c411818beb222390a48545f79"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -50,6 +54,11 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "f551f7780b8d32345f7c4646137d1ed91fb7f24e3a61d998d6fc5b366f44b4a0"
+metafile = true
+
+[[files]]
+file = "mods/celestria.pw.toml"
+hash = "b3eda177d099ef511ccdd9d738d902c6c10f4037bd7dd0869ae9a3ff545a5d91"
 metafile = true
 
 [[files]]
@@ -145,6 +154,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "0bb13d0459be9af19faf40ea8e83b8bf29922b378dcbe9e430fc7de11d98dac3"
 metafile = true
 
 [[files]]

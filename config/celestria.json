@@ -1,0 +1,22 @@
+{
+  "sendChatMessages": true,
+  "enableShootingStars": true,
+  "shootingStarScale": 1.5,
+  "shootingStarSpeed": 0.5,
+  "shootingStarPathLength": 100,
+  "shootingStarChance": 20000,
+  "shootingStarCooldownLength": 1000,
+  "shootingStarLuckDuration": 1000,
+  "shootingStarMessages": [
+    "celestria.shootingStar.1",
+    "celestria.shootingStar.2",
+    "celestria.shootingStar.3"
+  ],
+  "enableInsomnia": false,
+  "insomniaChance": 30000,
+  "insomniaDuration": 1000,
+  "insomniaMessages": [
+    "celestria.insomnia.1",
+    "celestria.insomnia.2"
+  ]
+}
