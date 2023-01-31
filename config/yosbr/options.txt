@@ -4,3 +4,6 @@ autoJump:false
 autoSuggestions:false
 renderDistance:16
 simulationDistance:16
+fov:0.5
+darkMojangStudiosBackground:true
+resourcePacks:["vanilla","Fabric Mods","lambdabettergrass/default","file/coins-to-bits.zip"]

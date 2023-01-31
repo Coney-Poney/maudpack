@@ -1,0 +1,13 @@
+name = "Create: Extended Cogwheels Fabric"
+filename = "extendedcogs-1.19.2-0.5.0.g-1.0.0+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "837b14cc4ab6a8f0be0d4b19e2ba638dc75003ae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4356949
+project-id = 815006

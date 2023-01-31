@@ -1,0 +1,13 @@
+name = "Wanderer's Catalogue"
+filename = "wanderers-catalogue-1.0.2+1.19.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FNTcFUPb/versions/9OT7WdSb/wanderers-catalogue-1.0.2%2B1.19.x.jar"
+hash-format = "sha1"
+hash = "fbe164f151c453538e13d08850930ea6b14b8c38"
+
+[update]
+[update.modrinth]
+mod-id = "FNTcFUPb"
+version = "9OT7WdSb"

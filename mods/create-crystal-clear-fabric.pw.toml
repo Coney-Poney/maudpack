@@ -1,0 +1,13 @@
+name = "Create: Crystal Clear Refabricated"
+filename = "create_crystal_clear-1.0+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/28pbjFvD/versions/AvSlQZT5/create_crystal_clear-1.0%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "c138dbb59ee8bf136b045e6c0213e7b326ea1b52"
+
+[update]
+[update.modrinth]
+mod-id = "28pbjFvD"
+version = "AvSlQZT5"
