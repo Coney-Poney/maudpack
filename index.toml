@@ -126,11 +126,6 @@ hash = "39403c2a7c64dc3685b01600869f8ae9bfab71c218a36764cb136a406553ac5b"
 metafile = true
 
 [[files]]
-file = "mods/create-extended-cogwheels-fabric.pw.toml"
-hash = "04001f694d9fed662d68d4b817fd601bd78442246e2113bfa5fc8d304460a815"
-metafile = true
-
-[[files]]
 file = "mods/create-extended-flywheels-fabric.pw.toml"
 hash = "141d942a606926d210d0c4c9d32e26593a4407f7e8db0a744a6a28a2d20d6f18"
 metafile = true
