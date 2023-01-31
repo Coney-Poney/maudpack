@@ -43,6 +43,7 @@ For more information on how to use Packwiz, visit [their website,](https://packw
 | [Create Extended Flywheels Fabric](https://www.curseforge.com/minecraft/mc-mods/create-extended-flywheels-fabric) | Rabbitminers | Create Flywheels |
 | [Create Fabric](https://modrinth.com/mod/create-fabric) | tropheusj | Aesthetic Automation |
 | [Creeper Overhaul](https://www.curseforge.com/minecraft/mc-mods/creeper-overhaul) | joosh_7889 | Creeper Variants |
+| [CrossStitch](https://modrinth.com/mod/crossstitch) | astei | Proxy Compatibility |
 | [Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves) | isxander | Leaf Culling |
 | [Cull Clouds](https://modrinth.com/mod/cullclouds) | ugamii | Cloud Culling |
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | juliand665 | Reduces Unfocused FPS |
