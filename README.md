@@ -21,6 +21,7 @@ For more information on how to use Packwiz, visit [their website,](https://packw
 | --- | ------ | ------- |
 | [Alternate Current](https://modrinth.com/mod/alternate-current) | Space Walker | Optimizes Redstone |
 | [AntiGhost](https://modrinth.com/mod/antighost) | Giselbaer | Re-Send Block Data |
+| [AppleSkin](https://modrinth.com/mod/appleskin) | squeek502 | Better Hunger Bar |
 | [Architectury](https://modrinth.com/mod/architectury-api) | shedaniel | Mod API |
 | [Axes Are Weapons](https://modrinth.com/mod/axes-are-weapons) | Fourmisain | Makes Axes Weapons |
 | [Balm](https://modrinth.com/mod/balm) | BlayTheNinth | Mod API |
@@ -47,9 +48,10 @@ For more information on how to use Packwiz, visit [their website,](https://packw
 | [Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves) | isxander | Leaf Culling |
 | [Cull Clouds](https://modrinth.com/mod/cullclouds) | ugamii | Cloud Culling |
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | juliand665 | Reduces Unfocused FPS |
-| [Enhanced Block Entities](https://modrinth.com/mod/ebe) | FoundationGames | Optimizes Block Entities |
+| [Emojiful](https://www.curseforge.com/minecraft/mc-mods/emojiful) | Buuz135 | Chat Emotes |
 | [EntityCulling](https://modrinth.com/mod/entityculling) | tr7zw | Entity Culling |
 | [Expanded Delight](https://modrinth.com/mod/expanded-delight) | ianm1647 | Farmer's Delight Extras |
+| [Extra Alchemy](https://modrinth.com/mod/extraalchemy) | zabi94 | Potion Extras |
 | [Fabric API](https://modrinth.com/mod/fabric-api) | sfPlayer1 | Fabric API |
 | [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) | modmuss50 | Fabric Kotlin Support |
 | [FabricProxy-Lite](https://modrinth.com/mod/fabricproxy-lite) | james58899 | Proxy Support |
@@ -69,7 +71,6 @@ For more information on how to use Packwiz, visit [their website,](https://packw
 | [Jade](https://modrinth.com/mod/jade) | Snownee | Information HUD |
 | [Jamlib](https://modrinth.com/mod/jamlib) | jamalam | Mod Library |
 | [Kambrik](https://www.curseforge.com/minecraft/mc-mods/kambrik) | Ejektaflex | Kotlin Library |
-| [Keep Some Inventory](https://modrinth.com/datapack/keep-some-inventory) | PuckiSilver | Keep Vital Items On Death |
 | [Krypton](https://modrinth.com/mod/krypton) | astei | Network Optimizations |
 | [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass) | LambdAurora | "Better" Grass |
 | [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) | LambdAurora | Dynamic Lighting |
@@ -100,5 +101,6 @@ For more information on how to use Packwiz, visit [their website,](https://packw
 | [Wanderer's Catalogue](https://modrinth.com/mod/wanderers-catalogue) | AmyMialee | Wandering Trader Reliability |
 | [Waystones](https://modrinth.com/mod/waystones) | BlayTheNinth | Survival-Friendly Teleportation |
 | [YetAnotherConfigLib](https://modrinth.com/mod/yacl) | isxander | Config Library |
+| [You're In Grave Danger](https://modrinth.com/mod/yigd) | b1n-ry | Graves |
 | [Your Options Shall Be Respected](https://modrinth.com/mod/yosbr) | shedaniel | Settings Preset |
 | [Zoomify](https://modrinth.com/mod/zoomify) | isxander | Zoom Keybind |
