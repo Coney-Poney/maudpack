@@ -21,9 +21,9 @@ For more information on how to use Packwiz, visit [their website,](https://packw
 | --- | ------ | ------- |
 | [Alternate Current](https://modrinth.com/mod/alternate-current) | Space Walker | Optimizes Redstone |
 | [AntiGhost](https://modrinth.com/mod/antighost) | Giselbaer | Re-Send Block Data |
-| [Architectury](https://modrinth.com/mod/architectury-api) | shedaniel | API |
+| [Architectury](https://modrinth.com/mod/architectury-api) | shedaniel | Mod API |
 | [Axes Are Weapons](https://modrinth.com/mod/axes-are-weapons) | Fourmisain | Makes Axes Weapons |
-| [Balm](https://modrinth.com/mod/balm) | BlayTheNinth | 
+| [Balm](https://modrinth.com/mod/balm) | BlayTheNinth | Mod API |
 | [Better Beds](https://modrinth.com/mod/better-beds) | Motschen | Optimizes Beds |
 | [Better Biome Blend](https://modrinth.com/mod/better-biome-blend) | FionaTheMortal | Improves Biome Blending |
 | [BetterF3](https://modrinth.com/mod/betterf3) | treyruffy | More F3 Data |
