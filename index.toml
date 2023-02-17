@@ -396,11 +396,6 @@ hash = "413ce716e1ce679ff1097f1732023a5457ef5ec7b512d247ef087aeefd82d19b"
 metafile = true
 
 [[files]]
-file = "mods/spelunkery.pw.toml"
-hash = "9658a488a279e0378cd4a272c39352eeee1e21b8b70262f8b4f0140930daaf9f"
-metafile = true
-
-[[files]]
 file = "mods/starlight.pw.toml"
 hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
 metafile = true
