@@ -111,6 +111,11 @@ hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
 
 [[files]]
+file = "mods/connectivity.pw.toml"
+hash = "0318b9dd838aec0a1b7d5393a80e0119efabbb4dba692ae8dbb239cd849876bd"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "3cbe3d523b39667928fcc34f71651b0e581e5c541dd5ecf17228464770466bc5"
 metafile = true
@@ -448,3 +453,7 @@ metafile = true
 [[files]]
 file = "resourcepacks/coins-to-bits.zip"
 hash = "0ad37706637b5ad005ca3363e4507ffa206c700822ac9d934b371e2906be0e3a"
+
+[[files]]
+file = "version-name.sh"
+hash = "fb81cfca4e502ac690f35a280b4f014a52b0d1f919f92bff6556b487f5b9a093"
