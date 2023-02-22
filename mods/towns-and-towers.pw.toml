@@ -1,13 +1,13 @@
 name = "Towns and Towers"
-filename = "Towns-and-Towers-v.1.10.1-FABRIC-1.19.2.jar"
+filename = "Towns-and-Towers-1.19.2-1.9.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/DjLobEOy/versions/s7UXEluf/Towns-and-Towers-v.1.10.1-FABRIC-1.19.2.jar"
+url = "https://cdn.modrinth.com/data/DjLobEOy/versions/FaQE3ISU/Towns-and-Towers-1.19.2-1.9.jar"
 hash-format = "sha1"
-hash = "ea3acec7a2dda59ce28b98ad2c0134f2b37af5e4"
+hash = "3072c44725bd42c10e9c02e115faa8b8f5d57223"
 
 [update]
 [update.modrinth]
 mod-id = "DjLobEOy"
-version = "s7UXEluf"
+version = "FaQE3ISU"
