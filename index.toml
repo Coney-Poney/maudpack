@@ -236,6 +236,11 @@ hash = "552559fc09df74f383b3090a7b205a8c60704950e7f65f218c2e795b4fb176fe"
 metafile = true
 
 [[files]]
+file = "mods/flan.pw.toml"
+hash = "c3b56911a8c3abf330be9a5a31c9c23159ca68124099465d8d094db97b898b17"
+metafile = true
+
+[[files]]
 file = "mods/frame-api.pw.toml"
 hash = "8178032232586e97c3db3aa7c9f5c3901d98c53b6aeed32097a4acbfd908c374"
 metafile = true
@@ -321,6 +326,11 @@ hash = "77e9a02e09ec5a0d6682e5f448953048d99e36da299d92627044aff0828798e3"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "a4a461e73eb037dd5b5f3015a9a53d947c4533535b98f072f4ea96e90e9d68e4"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "4716789e4a806c1cabcef27e67150215edb4c3d737e9a87d90f2f615d6c196cd"
 metafile = true
@@ -403,6 +413,16 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "d0cd4b1f936b73cbe367ccc74c325688bb5aa1e87e41f571124a22c3b361c2c1"
+metafile = true
+
+[[files]]
+file = "mods/styledplayerlist.pw.toml"
+hash = "d2accfdeb772987301d7517f93e081a276e5ae7610caf1f213a2012204699358"
 metafile = true
 
 [[files]]
