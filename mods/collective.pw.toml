@@ -1,0 +1,13 @@
+name = "Collective"
+filename = "collective-1.19.2-6.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/e0M1UDsY/versions/tQFDdMS4/collective-1.19.2-6.9.jar"
+hash-format = "sha1"
+hash = "2b9f1cc97f068d2259f409668cff6f8209e4ea31"
+
+[update]
+[update.modrinth]
+mod-id = "e0M1UDsY"
+version = "tQFDdMS4"

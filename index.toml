@@ -121,6 +121,11 @@ hash = "84070bb5bd5ac094b111c08dcafdfa71e885c4cb5187097615e7b5ad2b6ebac8"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "072d8560e211ca06048bedc494224da54138359b1c9dccbff3819ef6a29ad916"
+metafile = true
+
+[[files]]
 file = "mods/connectivity.pw.toml"
 hash = "0318b9dd838aec0a1b7d5393a80e0119efabbb4dba692ae8dbb239cd849876bd"
 metafile = true
@@ -243,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/figura.pw.toml"
 hash = "552559fc09df74f383b3090a7b205a8c60704950e7f65f218c2e795b4fb176fe"
+metafile = true
+
+[[files]]
+file = "mods/first-join-message.pw.toml"
+hash = "e4f2ed8651a1fd63de48bdcbe674b72365a7e3f88c1ce98b9de638b0daea18c7"
 metafile = true
 
 [[files]]
@@ -428,6 +438,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
+metafile = true
+
+[[files]]
+file = "mods/starter-kit.pw.toml"
+hash = "3555d5f6c6544fde58c745a7c6c48d8047355533ccc5765d945fa453c71838a5"
 metafile = true
 
 [[files]]
