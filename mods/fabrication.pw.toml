@@ -1,0 +1,13 @@
+name = "Fabrication & Forgery"
+filename = "fabrication-3.1.9+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/B3Eg0WhA/versions/JbzaZ9Ar/fabrication-3.1.9%2B1.19.jar"
+hash-format = "sha1"
+hash = "3699dc6aa032b8b4dbffc89d3a888d0471b2fa25"
+
+[update]
+[update.modrinth]
+mod-id = "B3Eg0WhA"
+version = "JbzaZ9Ar"

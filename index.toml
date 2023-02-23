@@ -1,12 +1,80 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "bcda618c3d12260723dddcf6b15893d55ee7955d9347ef669004385c9bb3c61f"
+
+[[files]]
+file = "config/NoChatReports/NCR-Common.json"
+hash = "bbc93e6b3cb7a917334cbbb3d1b0775a1cb3244ebc2075e4fa1fb7420e32cea7"
+
+[[files]]
+file = "config/NoChatReports/NCR-Encryption.json"
+hash = "ba5e0e63cd9b06f69f19a66e99cd8f2d327421344123215c067a427a161558f1"
+
+[[files]]
+file = "config/NoChatReports/NCR-ServerWhitelist.json"
+hash = "fdf38fd061bb38e0389ffb008eb33f454f762e504080e8adf2ed5e3911554a8c"
+
+[[files]]
+file = "config/NoChatReports/README.md"
+hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
+
+[[files]]
 file = "config/axesareweapons.json5"
 hash = "0d040c4d9c6dd0c6a8c3a9fb1404869b062a5d3952d606cd22b033cf04470ffe"
 
 [[files]]
 file = "config/celestria.json"
 hash = "4a78ebe78206a0a9cb0dfbf666bffe180be5175c411818beb222390a48545f79"
+
+[[files]]
+file = "config/chunksfadein.properties"
+hash = "a321f9b7191f09b4831d05d0df123f5f48ae2cb3c0aa7e7ef262a8e916bf86d9"
+
+[[files]]
+file = "config/creeperoverhaul.json"
+hash = "8636fc06d89ac4f08daa416fad7295d2434effa71d61e501186b0e2af29f5d34"
+
+[[files]]
+file = "config/fabrication/block_logo.ini"
+hash = "1a58d3ffaaf266eb0f6f3574f15559689fa237be980a13b741834d640d9a8375"
+
+[[files]]
+file = "config/fabrication/block_logo.png"
+hash = "f2938cfb35d857049425b51f59ce557dd8f329e6b76bef68ffb561f118a4def0"
+
+[[files]]
+file = "config/fabrication/classic_block_drops.ini"
+hash = "45e501b8528ef8d27c2a67efd27304c81cd0503f8b0671094e6653eefd394b12"
+
+[[files]]
+file = "config/fabrication/dimensional_tools.ini"
+hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
+
+[[files]]
+file = "config/fabrication/features.ini"
+hash = "f6f37694f9e5b95999e5c331c6362442e5a60d32ef62afa2d926f994fede3d50"
+
+[[files]]
+file = "config/fabrication/fscript.ini"
+hash = "06d742af1c186bd89bb808f7ff407865f1c08b1ebf7bb2e52ae2d042b64acd16"
+
+[[files]]
+file = "config/fabrication/gear_components.ini"
+hash = "5a9291467f9f7918687a0d138a61e396cb9299b0b4ea2e4cf4f4d6f3594f865b"
+
+[[files]]
+file = "config/fabrication/item_despawn.ini"
+hash = "24b26ac0b8ff13889b6b3b00b2309366eb72c36014a9679a82f4cbff46c275f4"
+
+[[files]]
+file = "config/fabrication/taggable_players.ini"
+hash = "fe069b4316f910f2f3b703cedd9930b73eed74c2ae86909f8b43a8ffd3d1af45"
+
+[[files]]
+file = "config/fabrication/yeet_recipes.ini"
+hash = "939cfc95ed4a7480ac08d3f692538a348af72c6db693349c61f93f926976d1f2"
 
 [[files]]
 file = "config/fallingtree.json"
@@ -17,12 +85,21 @@ file = "config/featuredservers.json"
 hash = "d7e2fce360c5c2080ab16a738254798e5f9c5aa4f2c69924bee24788aa94af9f"
 
 [[files]]
+file = "config/pettable.json"
+hash = "859beada6ec39745d2dbd31a8260f56acb678e08d8a7608804deb8dcf72eee04"
+
+[[files]]
 file = "config/yosbr/options.txt"
 hash = "0d69701d20918973dc7dc66cb39198ef1eaffe663b717e1e9d26e67d24496f15"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "f30b15dc574856f6eca824f645537680ca12a6282bee89a33cbced66d6601dca"
+metafile = true
+
+[[files]]
+file = "mods/animal-feeding-trough.pw.toml"
+hash = "f989d5c9cce4f8279a63a15fea7b868c8420593a5ee2d9829c1062d751edba75"
 metafile = true
 
 [[files]]
@@ -56,6 +133,11 @@ hash = "7c5c3e69f7d2abcde972efc46603be697818d834f28e94bbdb4fd5ee565c1c9a"
 metafile = true
 
 [[files]]
+file = "mods/bedspreads.pw.toml"
+hash = "6eb0b682608efaf6c7e6b7310014a2933f4563422a9e0bbc96a05ad4ed57b900"
+metafile = true
+
+[[files]]
 file = "mods/better-beds.pw.toml"
 hash = "112cb3b761a4ef017c2123fe61c0bcd0425d67ecbbc77ea76dd4f9c6842312bf"
 metafile = true
@@ -86,6 +168,11 @@ hash = "59728592596adaba0664857ea87de5bb446c7f5d1e62f5f10d7f7453e42cd0be"
 metafile = true
 
 [[files]]
+file = "mods/bovines-and-buttercups.pw.toml"
+hash = "780428cf6390880a2d74a5364daed8083fd8f7402670df6145f6250f977e4a4f"
+metafile = true
+
+[[files]]
 file = "mods/bundle-jumble.pw.toml"
 hash = "a7814efcab6cd025811d51501013dfe2a9fcbeda70dd3a4310cc744f29cbb72f"
 metafile = true
@@ -106,6 +193,11 @@ hash = "b3eda177d099ef511ccdd9d738d902c6c10f4037bd7dd0869ae9a3ff545a5d91"
 metafile = true
 
 [[files]]
+file = "mods/chunks-fade-in.pw.toml"
+hash = "1a62c3ac192635b6d4e6dfd11983bfc398c471465b0236c284b8a063e1989621"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "b52cd1f4295d855882a41b5f164385e2ba460d7766a2e2e6183ef56c00c824ab"
 metafile = true
@@ -123,6 +215,21 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "13bac68b4372e66fc82e33809ba085c2cd9bea09b6a4a3619586c73767d8b86e"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "cf1600e98fd694d3b946e20f6c97d8b9bfa60b6ac25d2e02842919d9b1da5a5b"
+metafile = true
+
+[[files]]
+file = "mods/companion.pw.toml"
+hash = "50f7a1e8eff013c3f18e648b9985614940c7fd1773263a4ba9235f0e4359cec6"
+metafile = true
+
+[[files]]
+file = "mods/completeconfig.pw.toml"
+hash = "a206bc693d41eb72f431abfc5d4556f9e9bf7f0bb6237224b750df85aeddd434"
 metafile = true
 
 [[files]]
@@ -181,6 +288,21 @@ hash = "2bbb1ff7bbecbdb7b484df35b823dae2abc4798a5c203a651d2ae0b0a707d119"
 metafile = true
 
 [[files]]
+file = "mods/dcwa.pw.toml"
+hash = "6ec1e483b01e1feb7bb64f2f017bfd0f8a28b48a863b0c325ab7c78c86b9e2ad"
+metafile = true
+
+[[files]]
+file = "mods/disableinsecurechattoast.pw.toml"
+hash = "8b2e15f512c397937d43d6df8d027ce681bf664a1f850ec20dde0d7f2d555bcd"
+metafile = true
+
+[[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "8d8ba1d500070cac1b9961d78e2fd90d973cee01d373175d64e3250aa1d3b2c7"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
@@ -201,11 +323,6 @@ hash = "26ce46903b0f7c33c0d54f20967ded566fbc9910d72151810b2eb7e475077c7b"
 metafile = true
 
 [[files]]
-file = "mods/extraalchemy.pw.toml"
-hash = "5031d54b22478641c4f70b444ce533e342c81d86e08df6c8072a032235a817f0"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "cdc7eee1590bd54a3011dd030d3567e2e417d7ef1af23d124190823370670e87"
 metafile = true
@@ -213,6 +330,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "0fe83c99b29c952f464c7bfba9cc86cc4f834bef7834821433fe23ce3dd230e6"
+metafile = true
+
+[[files]]
+file = "mods/fabrication.pw.toml"
+hash = "29e253a780cc6344f44a63d648d8b8424f2fdfc687b8ea2937d96532566d1cd5"
 metafile = true
 
 [[files]]
@@ -281,8 +403,13 @@ hash = "d273e6504bfd2f92c291f63f549e4cd31fed77b19dc25d4f7a4d2094c679ff40"
 metafile = true
 
 [[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "7d36d5a19b32363dc9795b0f4610705e332c0100169b2ec4a54654b0923ba89f"
+file = "mods/healing-campfire.pw.toml"
+hash = "f05925ab4aa6396a486bf737381bb502a411d7611b84af9bac8c8877ca76415c"
+metafile = true
+
+[[files]]
+file = "mods/horsebuff.pw.toml"
+hash = "a1f6e5c7010b82cc022a4ae37290966eff652658a0d0f6598d6519f068b659ae"
 metafile = true
 
 [[files]]
@@ -308,6 +435,11 @@ metafile = true
 [[files]]
 file = "mods/jamlib.pw.toml"
 hash = "6cb50f4dcb3f6ba70ecbae01c0691b25fb40610a859aa41bf6ce261ad70429d2"
+metafile = true
+
+[[files]]
+file = "mods/joy-of-painting.pw.toml"
+hash = "ffff5ddbf78982dce07ad9753bf667042a2b5e3cf29077e9e221295faa5720f8"
 metafile = true
 
 [[files]]
@@ -346,8 +478,18 @@ hash = "cbd6b97dfc49090b18480f43eeef4401144006ed406110f32fb1126d47a21f11"
 metafile = true
 
 [[files]]
+file = "mods/let-sleeping-dogs-lie.pw.toml"
+hash = "b3567d0740e7870d2c807ae661a1f511933d3f227e62648477aa64b4e2af1dd3"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "77e9a02e09ec5a0d6682e5f448953048d99e36da299d92627044aff0828798e3"
+metafile = true
+
+[[files]]
+file = "mods/loadingscreentips.pw.toml"
+hash = "47128ec737c02dfac163db723625223a684a1204dc2e20d63f3691d2fa7f38d2"
 metafile = true
 
 [[files]]
@@ -401,8 +543,18 @@ hash = "092562cce93b133cdd4f9a0004a104914fd9f639941fb4c2401054fac0124f15"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
+metafile = true
+
+[[files]]
 file = "mods/oxidized.pw.toml"
 hash = "bf98fdcfc6af334665be9b77e343c217cb9c7bc0c13ea43b6e9142816653f774"
+metafile = true
+
+[[files]]
+file = "mods/pettable.pw.toml"
+hash = "43f11eb7babcc05358ac4e1c4148776ee7fe5c224dc6d92ef7045649c799cbb5"
 metafile = true
 
 [[files]]
@@ -481,8 +633,13 @@ hash = "03c7682c6da0b60c7aa3f91b988562b118052f5bdaebb2403cc26b8ee72e99c2"
 metafile = true
 
 [[files]]
-file = "mods/waystones.pw.toml"
-hash = "7469851e3fed3e9176d431c4da39acb4d0d815f0f1e2341d8621d6c96294a697"
+file = "mods/xaeros-minimap.pw.toml"
+hash = "991956069fdb629e0c7cc59cc3a94915999d152f99c9f059282e6ad7f596fe22"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "2ff3f34d3419efe9a339e925ebd733fb15ad484b05d4cb02daad199b5d5a6ddd"
 metafile = true
 
 [[files]]
@@ -508,7 +665,3 @@ metafile = true
 [[files]]
 file = "resourcepacks/coins-to-bits.zip"
 hash = "0ad37706637b5ad005ca3363e4507ffa206c700822ac9d934b371e2906be0e3a"
-
-[[files]]
-file = "version-name.sh"
-hash = "fb81cfca4e502ac690f35a280b4f014a52b0d1f919f92bff6556b487f5b9a093"
