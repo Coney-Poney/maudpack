@@ -6,7 +6,7 @@ hash = "bcda618c3d12260723dddcf6b15893d55ee7955d9347ef669004385c9bb3c61f"
 
 [[files]]
 file = "config/NoChatReports/NCR-Common.json"
-hash = "bbc93e6b3cb7a917334cbbb3d1b0775a1cb3244ebc2075e4fa1fb7420e32cea7"
+hash = "71c1c23a604233a5d9ccabdccc7f5f08050007a78cdb8a1d3e74504ca1a42e32"
 
 [[files]]
 file = "config/NoChatReports/NCR-Encryption.json"
