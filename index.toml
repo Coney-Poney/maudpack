@@ -1,26 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/NoChatReports/NCR-Client.json"
-hash = "bcda618c3d12260723dddcf6b15893d55ee7955d9347ef669004385c9bb3c61f"
-
-[[files]]
-file = "config/NoChatReports/NCR-Common.json"
-hash = "71c1c23a604233a5d9ccabdccc7f5f08050007a78cdb8a1d3e74504ca1a42e32"
-
-[[files]]
-file = "config/NoChatReports/NCR-Encryption.json"
-hash = "ba5e0e63cd9b06f69f19a66e99cd8f2d327421344123215c067a427a161558f1"
-
-[[files]]
-file = "config/NoChatReports/NCR-ServerWhitelist.json"
-hash = "fdf38fd061bb38e0389ffb008eb33f454f762e504080e8adf2ed5e3911554a8c"
-
-[[files]]
-file = "config/NoChatReports/README.md"
-hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
-
-[[files]]
 file = "config/axesareweapons.json5"
 hash = "0d040c4d9c6dd0c6a8c3a9fb1404869b062a5d3952d606cd22b033cf04470ffe"
 
@@ -540,11 +520,6 @@ metafile = true
 [[files]]
 file = "mods/nbt-crafting.pw.toml"
 hash = "092562cce93b133cdd4f9a0004a104914fd9f639941fb4c2401054fac0124f15"
-metafile = true
-
-[[files]]
-file = "mods/no-chat-reports.pw.toml"
-hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
 metafile = true
 
 [[files]]
