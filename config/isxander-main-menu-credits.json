@@ -1,0 +1,102 @@
+{
+  "main_menu": {
+    "top_left": [],
+    "top_right": [],
+    "bottom_left": [
+      [
+        {
+          "text": "Maudpack RC-1",
+          "color": "#9885B7",
+          "clickEvent": {
+            "action": "open_url",
+            "value": "https://github.com/Coney-Poney/workingtitle-modpack"
+          }
+        },
+        {
+          "text": ", made ",
+          "color": "white",
+          "clickEvent": {
+            "action": "open_url",
+            "value": "https://github.com/Coney-Poney/workingtitle-modpack"
+          }
+        },
+        {
+          "text": "by #! ",
+          "color": "white",
+          "clickEvent": {
+            "action": "open_url",
+            "value": "https://github.com/Coney-Poney/workingtitle-modpack"
+          }
+        },
+        {
+          "text": "with ",
+          "color": "white",
+          "clickEvent": {
+            "action": "open_url",
+            "value": "https://github.com/Coney-Poney/workingtitle-modpack"
+          }
+        },
+        {
+          "text": "♥",
+          "color": "red",
+          "clickEvent": {
+            "action": "open_url",
+            "value": "https://github.com/Coney-Poney/workingtitle-modpack"
+          }
+        }
+      ]
+    ],
+    "bottom_right": [],
+    "mod_blacklist": []
+  },
+  "pause_menu": {
+    "top_left": [],
+    "top_right": [],
+    "bottom_left": [],
+    "bottom_right": [
+      [
+        {
+          "text": "Maudpack RC-1",
+          "color": "#9885B7",
+          "clickEvent": {
+            "action": "open_url",
+            "value": "https://github.com/Coney-Poney/workingtitle-modpack"
+          }
+        },
+        {
+          "text": ", made ",
+          "color": "white",
+          "clickEvent": {
+            "action": "open_url",
+            "value": "https://github.com/Coney-Poney/workingtitle-modpack"
+          }
+        },
+        {
+          "text": "by #! ",
+          "color": "white",
+          "clickEvent": {
+            "action": "open_url",
+            "value": "https://github.com/Coney-Poney/workingtitle-modpack"
+          }
+        },
+        {
+          "text": "with ",
+          "color": "white",
+          "clickEvent": {
+            "action": "open_url",
+            "value": "https://github.com/Coney-Poney/workingtitle-modpack"
+          }
+        },
+        {
+          "text": "♥",
+          "color": "red",
+          "clickEvent": {
+            "action": "open_url",
+            "value": "https://github.com/Coney-Poney/workingtitle-modpack"
+          }
+        }
+      ]
+    ],
+    "mod_blacklist": []
+  }
+}

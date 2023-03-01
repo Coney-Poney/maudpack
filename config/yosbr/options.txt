@@ -2,8 +2,9 @@ enableVsync:false
 maxFps:200
 autoJump:false
 autoSuggestions:false
-renderDistance:16
-simulationDistance:16
+renderDistance:12
+simulationDistance:12
 fov:0.5
 darkMojangStudiosBackground:true
 resourcePacks:["vanilla","Fabric Mods","lambdabettergrass/default","file/coins-to-bits.zip"]
+soundCategory_master:0.5

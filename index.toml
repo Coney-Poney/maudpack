@@ -17,6 +17,22 @@ file = "config/creeperoverhaul.json"
 hash = "8636fc06d89ac4f08daa416fad7295d2434effa71d61e501186b0e2af29f5d34"
 
 [[files]]
+file = "config/customwindowtitle-client.toml"
+hash = "d2225b8954d0145ae595bb29e9bc5941a2bb22b2fd67ae5a5d5dd3f71db15eca"
+
+[[files]]
+file = "config/customwindowtitle/icon-16.png"
+hash = "7abb1686b612b0e9078015513485e1b0e6472411d1a3a799005d7d62017df6ae"
+
+[[files]]
+file = "config/customwindowtitle/icon-32.png"
+hash = "8551036b1d1928c816699439a2d4126467fdbc1b14ee965b210ada66d1a0a89b"
+
+[[files]]
+file = "config/desiredservers/desiredservers.json"
+hash = "d71c814a5d383f02cd951f6c226a6ade14a6c5a731228c3f3b83832a1ec7b9e2"
+
+[[files]]
 file = "config/fabrication/block_logo.ini"
 hash = "1a58d3ffaaf266eb0f6f3574f15559689fa237be980a13b741834d640d9a8375"
 
@@ -34,7 +50,7 @@ hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "f6f37694f9e5b95999e5c331c6362442e5a60d32ef62afa2d926f994fede3d50"
+hash = "2b050a2f169763d8d60e5d4df5221ebad7a275677ed2296fad4e7f5f63f7ab4f"
 
 [[files]]
 file = "config/fabrication/fscript.ini"
@@ -61,16 +77,569 @@ file = "config/fallingtree.json"
 hash = "d01f3fa5f997eacf9ab685779ab40eb2044e3ed13b78401a46baef56cf50513c"
 
 [[files]]
-file = "config/featuredservers.json"
-hash = "d7e2fce360c5c2080ab16a738254798e5f9c5aa4f2c69924bee24788aa94af9f"
+file = "config/firstjoinmessage.json5"
+hash = "d4359e41189d45d7ed0fb60f6595997b9e348b299c34fe50c80180afbe597cee"
+
+[[files]]
+file = "config/isxander-main-menu-credits.json"
+hash = "c89bda8ef6facfabd3c93c2101635da8db58d9b86f5a6e1b99c69ac368ece79f"
 
 [[files]]
 file = "config/pettable.json"
 hash = "859beada6ec39745d2dbd31a8260f56acb678e08d8a7608804deb8dcf72eee04"
 
 [[files]]
+file = "config/splasher.toml"
+hash = "f06cf741eab9661962c6764fe141d678f72166a9d6d7877f93465cf98b007ba3"
+
+[[files]]
+file = "config/splasher/en_us.txt"
+hash = "2d370a6184857fe10fc618cb41e8b2955c64b8868e7ed7cfa860498da7240747"
+
+[[files]]
+file = "config/starterkit.json5"
+hash = "c5c2f85ee5e5d597af6481b53edab999d9c0e289845dd663582b7617b1edad10"
+
+[[files]]
+file = "config/starterkit/starterkit.txt"
+hash = "62714fc68c6684eab10ad7fca5c4c632dc9c1f723c03d26a23010c3452128bd5"
+
+[[files]]
 file = "config/yosbr/options.txt"
-hash = "0d69701d20918973dc7dc66cb39198ef1eaffe663b717e1e9d26e67d24496f15"
+hash = "9093edd91ddb8ac4e024d15b16e0461748516bf8a80ef661ece4373e91277981"
+
+[[files]]
+file = "figura/avatars/Applejack/GSAnimBlend.lua"
+hash = "aa43352aac3597396b468f55f5503dac0be9e570e05fdf1bf6b8f00ed121cb56"
+
+[[files]]
+file = "figura/avatars/Applejack/InitValues.lua"
+hash = "527053ae1f33dcad07b45c19784cd330b3223e14ad6a081e4d1386b80c349842"
+
+[[files]]
+file = "figura/avatars/Applejack/KattArmorAPI.lua"
+hash = "57340b2619312c0ef1632d3a9c9a51084039037642d9d86e55272e3f23640d4e"
+
+[[files]]
+file = "figura/avatars/Applejack/KattArmorCustomModel.lua"
+hash = "22a96d2e36c5caade2d641d247d4f01e296e71a2cbceebf6fbec502e20e22acb"
+
+[[files]]
+file = "figura/avatars/Applejack/KattArmorCustomTextures.lua"
+hash = "1c21b01daa7709950d298b6cf15bc90579b0076356678a010ec4b42e63ea7030"
+
+[[files]]
+file = "figura/avatars/Applejack/KattEventsAPI.lua"
+hash = "82d43d16427ea188a81169f0ae2cabb2d6a3163fbb9d46cf1ab6d0c7ac33e7d5"
+
+[[files]]
+file = "figura/avatars/Applejack/KattItemChangeEvent.lua"
+hash = "b1e924d118ba855841335427ffcc4818f13721b8613caa264211ee7d0fd0e50f"
+
+[[files]]
+file = "figura/avatars/Applejack/Textures/chainmail.png"
+hash = "d751c57800b977b664440dab224dacfcd9c8f8b6033914c2fe6fd8523a70fd30"
+
+[[files]]
+file = "figura/avatars/Applejack/Textures/diamond.png"
+hash = "2fdbc4ac09cd87e52dfe30a12bfd6bb35ac660f1e816bcbe3fcd2058207a0658"
+
+[[files]]
+file = "figura/avatars/Applejack/Textures/gold.png"
+hash = "0a73b74e597dd5485791563a03264c1042c5377d93ace6baca9c2cbd06bf807d"
+
+[[files]]
+file = "figura/avatars/Applejack/Textures/iron.png"
+hash = "56e7e6b7fed68134382ece7403ed2ae7382a82ff06cc94d3a052389324dafda3"
+
+[[files]]
+file = "figura/avatars/Applejack/Textures/leather.png"
+hash = "3a51046b42003bd89156663af5a08aa88a2bdc198b37fa88a161a4970f6fa0c2"
+
+[[files]]
+file = "figura/avatars/Applejack/Textures/leather_o.png"
+hash = "10f6202421503d58898df822f49f9e473a0c58ad5c3a2083537b415a6736f452"
+
+[[files]]
+file = "figura/avatars/Applejack/Textures/netherite.png"
+hash = "b2f96706639f2abb263a9e708d37f47bc3cde07ea4bf49e78073487e23002458"
+
+[[files]]
+file = "figura/avatars/Applejack/Textures/texture.png"
+hash = "bbfd118b9608737eb58267345c785d9109e5a1d552a00b0b236947f92428afc9"
+
+[[files]]
+file = "figura/avatars/Applejack/Textures/texture_e.png"
+hash = "6e8fab5256f2c912c0a79443b9548019c8aa14ab6d6b4882643e048a3ce1a87c"
+
+[[files]]
+file = "figura/avatars/Applejack/Textures/turtle.png"
+hash = "33ad1b542332688ef36e1c6ac28b6e32ae2c6b8b74ebbda077a13f32eaeaeae2"
+
+[[files]]
+file = "figura/avatars/Applejack/actionwheel.lua"
+hash = "8429a74d2af1529386ef84c36977adb205fe33b0cc5e79ba66a5e1bcf63e4f1d"
+
+[[files]]
+file = "figura/avatars/Applejack/avatar.json"
+hash = "445ebd4a5981a654f608e2f258c649c0e33a5a3b954a6b42b867344072a9d060"
+
+[[files]]
+file = "figura/avatars/Applejack/locomotion.lua"
+hash = "6253a9b3d1667c3c260849ddf51124dba95f7cf5c019c85ea74627b99c2cec61"
+
+[[files]]
+file = "figura/avatars/Applejack/pony.bbmodel"
+hash = "14521e683da956298243912fa0b0e3adc3cb9a59171c6553bb90b5875b4e6ada"
+
+[[files]]
+file = "figura/avatars/Applejack/pony.lua"
+hash = "8de5605086b5f09807c4f6c00a4ebce4763d9651283688e10bc2e6b50855500b"
+
+[[files]]
+file = "figura/avatars/Fluttershy/GSAnimBlend.lua"
+hash = "aa43352aac3597396b468f55f5503dac0be9e570e05fdf1bf6b8f00ed121cb56"
+
+[[files]]
+file = "figura/avatars/Fluttershy/InitValues.lua"
+hash = "7eddf36b6a16cc1cbe2b8c21497964beaceffe1ecbecf6ec986f96b840f5de0b"
+
+[[files]]
+file = "figura/avatars/Fluttershy/KattArmorAPI.lua"
+hash = "57340b2619312c0ef1632d3a9c9a51084039037642d9d86e55272e3f23640d4e"
+
+[[files]]
+file = "figura/avatars/Fluttershy/KattArmorCustomModel.lua"
+hash = "22a96d2e36c5caade2d641d247d4f01e296e71a2cbceebf6fbec502e20e22acb"
+
+[[files]]
+file = "figura/avatars/Fluttershy/KattArmorCustomTextures.lua"
+hash = "1c21b01daa7709950d298b6cf15bc90579b0076356678a010ec4b42e63ea7030"
+
+[[files]]
+file = "figura/avatars/Fluttershy/KattEventsAPI.lua"
+hash = "82d43d16427ea188a81169f0ae2cabb2d6a3163fbb9d46cf1ab6d0c7ac33e7d5"
+
+[[files]]
+file = "figura/avatars/Fluttershy/KattItemChangeEvent.lua"
+hash = "b1e924d118ba855841335427ffcc4818f13721b8613caa264211ee7d0fd0e50f"
+
+[[files]]
+file = "figura/avatars/Fluttershy/Textures/chainmail.png"
+hash = "d751c57800b977b664440dab224dacfcd9c8f8b6033914c2fe6fd8523a70fd30"
+
+[[files]]
+file = "figura/avatars/Fluttershy/Textures/diamond.png"
+hash = "2fdbc4ac09cd87e52dfe30a12bfd6bb35ac660f1e816bcbe3fcd2058207a0658"
+
+[[files]]
+file = "figura/avatars/Fluttershy/Textures/gold.png"
+hash = "0a73b74e597dd5485791563a03264c1042c5377d93ace6baca9c2cbd06bf807d"
+
+[[files]]
+file = "figura/avatars/Fluttershy/Textures/iron.png"
+hash = "56e7e6b7fed68134382ece7403ed2ae7382a82ff06cc94d3a052389324dafda3"
+
+[[files]]
+file = "figura/avatars/Fluttershy/Textures/leather.png"
+hash = "3a51046b42003bd89156663af5a08aa88a2bdc198b37fa88a161a4970f6fa0c2"
+
+[[files]]
+file = "figura/avatars/Fluttershy/Textures/leather_o.png"
+hash = "10f6202421503d58898df822f49f9e473a0c58ad5c3a2083537b415a6736f452"
+
+[[files]]
+file = "figura/avatars/Fluttershy/Textures/netherite.png"
+hash = "b2f96706639f2abb263a9e708d37f47bc3cde07ea4bf49e78073487e23002458"
+
+[[files]]
+file = "figura/avatars/Fluttershy/Textures/texture.png"
+hash = "52c8310355476591cfce6dad07c37aa8a00724f7fdcb2002ee6b8a0aec9c3ab0"
+
+[[files]]
+file = "figura/avatars/Fluttershy/Textures/texture_e.png"
+hash = "e383ebece288fb205dd716d6b2ce9b3426e4c7ded91e65e31083522370256c12"
+
+[[files]]
+file = "figura/avatars/Fluttershy/Textures/turtle.png"
+hash = "33ad1b542332688ef36e1c6ac28b6e32ae2c6b8b74ebbda077a13f32eaeaeae2"
+
+[[files]]
+file = "figura/avatars/Fluttershy/actionwheel.lua"
+hash = "8429a74d2af1529386ef84c36977adb205fe33b0cc5e79ba66a5e1bcf63e4f1d"
+
+[[files]]
+file = "figura/avatars/Fluttershy/avatar.json"
+hash = "c92cd5035eca85fec0a431a81b7b1a2d2415ae91236954470b8a8469ad0b102f"
+
+[[files]]
+file = "figura/avatars/Fluttershy/locomotion.lua"
+hash = "6253a9b3d1667c3c260849ddf51124dba95f7cf5c019c85ea74627b99c2cec61"
+
+[[files]]
+file = "figura/avatars/Fluttershy/pony.bbmodel"
+hash = "b6145380d0544c268b17dddd00e8edf36eb96bcf7977f01e991fbc694a86cbca"
+
+[[files]]
+file = "figura/avatars/Fluttershy/pony.lua"
+hash = "8de5605086b5f09807c4f6c00a4ebce4763d9651283688e10bc2e6b50855500b"
+
+[[files]]
+file = "figura/avatars/Pinkie Pie/GSAnimBlend.lua"
+hash = "aa43352aac3597396b468f55f5503dac0be9e570e05fdf1bf6b8f00ed121cb56"
+
+[[files]]
+file = "figura/avatars/Pinkie Pie/InitValues.lua"
+hash = "527053ae1f33dcad07b45c19784cd330b3223e14ad6a081e4d1386b80c349842"
+
+[[files]]
+file = "figura/avatars/Pinkie Pie/KattArmorAPI.lua"
+hash = "57340b2619312c0ef1632d3a9c9a51084039037642d9d86e55272e3f23640d4e"
+
+[[files]]
+file = "figura/avatars/Pinkie Pie/KattArmorCustomModel.lua"
+hash = "22a96d2e36c5caade2d641d247d4f01e296e71a2cbceebf6fbec502e20e22acb"
+
+[[files]]
+file = "figura/avatars/Pinkie Pie/KattArmorCustomTextures.lua"
+hash = "1c21b01daa7709950d298b6cf15bc90579b0076356678a010ec4b42e63ea7030"
+
+[[files]]
+file = "figura/avatars/Pinkie Pie/KattEventsAPI.lua"
+hash = "82d43d16427ea188a81169f0ae2cabb2d6a3163fbb9d46cf1ab6d0c7ac33e7d5"
+
+[[files]]
+file = "figura/avatars/Pinkie Pie/KattItemChangeEvent.lua"
+hash = "b1e924d118ba855841335427ffcc4818f13721b8613caa264211ee7d0fd0e50f"
+
+[[files]]
+file = "figura/avatars/Pinkie Pie/Textures/chainmail.png"
+hash = "d751c57800b977b664440dab224dacfcd9c8f8b6033914c2fe6fd8523a70fd30"
+
+[[files]]
+file = "figura/avatars/Pinkie Pie/Textures/diamond.png"
+hash = "2fdbc4ac09cd87e52dfe30a12bfd6bb35ac660f1e816bcbe3fcd2058207a0658"
+
+[[files]]
+file = "figura/avatars/Pinkie Pie/Textures/gold.png"
+hash = "0a73b74e597dd5485791563a03264c1042c5377d93ace6baca9c2cbd06bf807d"
+
+[[files]]
+file = "figura/avatars/Pinkie Pie/Textures/iron.png"
+hash = "56e7e6b7fed68134382ece7403ed2ae7382a82ff06cc94d3a052389324dafda3"
+
+[[files]]
+file = "figura/avatars/Pinkie Pie/Textures/leather.png"
+hash = "3a51046b42003bd89156663af5a08aa88a2bdc198b37fa88a161a4970f6fa0c2"
+
+[[files]]
+file = "figura/avatars/Pinkie Pie/Textures/leather_o.png"
+hash = "10f6202421503d58898df822f49f9e473a0c58ad5c3a2083537b415a6736f452"
+
+[[files]]
+file = "figura/avatars/Pinkie Pie/Textures/netherite.png"
+hash = "b2f96706639f2abb263a9e708d37f47bc3cde07ea4bf49e78073487e23002458"
+
+[[files]]
+file = "figura/avatars/Pinkie Pie/Textures/texture.png"
+hash = "08c6112e2e628cdd47ddc5002f5a6fcd40041a1e6fc8356ef2e5ad5388f0c46b"
+
+[[files]]
+file = "figura/avatars/Pinkie Pie/Textures/texture_e.png"
+hash = "ed7d84cbb5234911dc423d007eee9f847daffcce551cc7346fb0d98f30bc1579"
+
+[[files]]
+file = "figura/avatars/Pinkie Pie/Textures/turtle.png"
+hash = "33ad1b542332688ef36e1c6ac28b6e32ae2c6b8b74ebbda077a13f32eaeaeae2"
+
+[[files]]
+file = "figura/avatars/Pinkie Pie/actionwheel.lua"
+hash = "8429a74d2af1529386ef84c36977adb205fe33b0cc5e79ba66a5e1bcf63e4f1d"
+
+[[files]]
+file = "figura/avatars/Pinkie Pie/avatar.json"
+hash = "bdfd092ef0ddbd26441b4fd80efc15f66b5f6fae2f41103d0cd085a977ce1c05"
+
+[[files]]
+file = "figura/avatars/Pinkie Pie/locomotion.lua"
+hash = "6253a9b3d1667c3c260849ddf51124dba95f7cf5c019c85ea74627b99c2cec61"
+
+[[files]]
+file = "figura/avatars/Pinkie Pie/pony.bbmodel"
+hash = "39e5e6728a8cdf745a7411b70644f88f6cdebe7eccb2026743728f4b2619c141"
+
+[[files]]
+file = "figura/avatars/Pinkie Pie/pony.lua"
+hash = "8de5605086b5f09807c4f6c00a4ebce4763d9651283688e10bc2e6b50855500b"
+
+[[files]]
+file = "figura/avatars/Rainbow Dash/GSAnimBlend.lua"
+hash = "aa43352aac3597396b468f55f5503dac0be9e570e05fdf1bf6b8f00ed121cb56"
+
+[[files]]
+file = "figura/avatars/Rainbow Dash/InitValues.lua"
+hash = "7eddf36b6a16cc1cbe2b8c21497964beaceffe1ecbecf6ec986f96b840f5de0b"
+
+[[files]]
+file = "figura/avatars/Rainbow Dash/KattArmorAPI.lua"
+hash = "57340b2619312c0ef1632d3a9c9a51084039037642d9d86e55272e3f23640d4e"
+
+[[files]]
+file = "figura/avatars/Rainbow Dash/KattArmorCustomModel.lua"
+hash = "22a96d2e36c5caade2d641d247d4f01e296e71a2cbceebf6fbec502e20e22acb"
+
+[[files]]
+file = "figura/avatars/Rainbow Dash/KattArmorCustomTextures.lua"
+hash = "1c21b01daa7709950d298b6cf15bc90579b0076356678a010ec4b42e63ea7030"
+
+[[files]]
+file = "figura/avatars/Rainbow Dash/KattEventsAPI.lua"
+hash = "82d43d16427ea188a81169f0ae2cabb2d6a3163fbb9d46cf1ab6d0c7ac33e7d5"
+
+[[files]]
+file = "figura/avatars/Rainbow Dash/KattItemChangeEvent.lua"
+hash = "b1e924d118ba855841335427ffcc4818f13721b8613caa264211ee7d0fd0e50f"
+
+[[files]]
+file = "figura/avatars/Rainbow Dash/Textures/chainmail.png"
+hash = "d751c57800b977b664440dab224dacfcd9c8f8b6033914c2fe6fd8523a70fd30"
+
+[[files]]
+file = "figura/avatars/Rainbow Dash/Textures/diamond.png"
+hash = "2fdbc4ac09cd87e52dfe30a12bfd6bb35ac660f1e816bcbe3fcd2058207a0658"
+
+[[files]]
+file = "figura/avatars/Rainbow Dash/Textures/gold.png"
+hash = "0a73b74e597dd5485791563a03264c1042c5377d93ace6baca9c2cbd06bf807d"
+
+[[files]]
+file = "figura/avatars/Rainbow Dash/Textures/iron.png"
+hash = "56e7e6b7fed68134382ece7403ed2ae7382a82ff06cc94d3a052389324dafda3"
+
+[[files]]
+file = "figura/avatars/Rainbow Dash/Textures/leather.png"
+hash = "3a51046b42003bd89156663af5a08aa88a2bdc198b37fa88a161a4970f6fa0c2"
+
+[[files]]
+file = "figura/avatars/Rainbow Dash/Textures/leather_o.png"
+hash = "10f6202421503d58898df822f49f9e473a0c58ad5c3a2083537b415a6736f452"
+
+[[files]]
+file = "figura/avatars/Rainbow Dash/Textures/netherite.png"
+hash = "b2f96706639f2abb263a9e708d37f47bc3cde07ea4bf49e78073487e23002458"
+
+[[files]]
+file = "figura/avatars/Rainbow Dash/Textures/texture.png"
+hash = "ca64c821293152a618b7f3a6c16018527bed2fddfd5d7f03dddc269d180f4cb1"
+
+[[files]]
+file = "figura/avatars/Rainbow Dash/Textures/texture_e.png"
+hash = "8bfcb2823a8b91aee550ce30961dc434c126990a7a4fe6f182482f27e93c5a2d"
+
+[[files]]
+file = "figura/avatars/Rainbow Dash/Textures/turtle.png"
+hash = "33ad1b542332688ef36e1c6ac28b6e32ae2c6b8b74ebbda077a13f32eaeaeae2"
+
+[[files]]
+file = "figura/avatars/Rainbow Dash/actionwheel.lua"
+hash = "8429a74d2af1529386ef84c36977adb205fe33b0cc5e79ba66a5e1bcf63e4f1d"
+
+[[files]]
+file = "figura/avatars/Rainbow Dash/avatar.json"
+hash = "6d658fb93fa36f9bda7781ac5681c82e3ceae78a2c98a726149fa599698f6cf7"
+
+[[files]]
+file = "figura/avatars/Rainbow Dash/locomotion.lua"
+hash = "6253a9b3d1667c3c260849ddf51124dba95f7cf5c019c85ea74627b99c2cec61"
+
+[[files]]
+file = "figura/avatars/Rainbow Dash/pony.bbmodel"
+hash = "43e111faa2f6e916823c942d1d263a9a2519327867e24759bfe404302252c2af"
+
+[[files]]
+file = "figura/avatars/Rainbow Dash/pony.lua"
+hash = "8de5605086b5f09807c4f6c00a4ebce4763d9651283688e10bc2e6b50855500b"
+
+[[files]]
+file = "figura/avatars/Rarity/GSAnimBlend.lua"
+hash = "aa43352aac3597396b468f55f5503dac0be9e570e05fdf1bf6b8f00ed121cb56"
+
+[[files]]
+file = "figura/avatars/Rarity/InitValues.lua"
+hash = "ad797d9d35c02617663ede17666278248569bf417f1451c95526596df8649dd4"
+
+[[files]]
+file = "figura/avatars/Rarity/KattArmorAPI.lua"
+hash = "57340b2619312c0ef1632d3a9c9a51084039037642d9d86e55272e3f23640d4e"
+
+[[files]]
+file = "figura/avatars/Rarity/KattArmorCustomModel.lua"
+hash = "22a96d2e36c5caade2d641d247d4f01e296e71a2cbceebf6fbec502e20e22acb"
+
+[[files]]
+file = "figura/avatars/Rarity/KattArmorCustomTextures.lua"
+hash = "1c21b01daa7709950d298b6cf15bc90579b0076356678a010ec4b42e63ea7030"
+
+[[files]]
+file = "figura/avatars/Rarity/KattEventsAPI.lua"
+hash = "82d43d16427ea188a81169f0ae2cabb2d6a3163fbb9d46cf1ab6d0c7ac33e7d5"
+
+[[files]]
+file = "figura/avatars/Rarity/KattItemChangeEvent.lua"
+hash = "b1e924d118ba855841335427ffcc4818f13721b8613caa264211ee7d0fd0e50f"
+
+[[files]]
+file = "figura/avatars/Rarity/Textures/chainmail.png"
+hash = "d751c57800b977b664440dab224dacfcd9c8f8b6033914c2fe6fd8523a70fd30"
+
+[[files]]
+file = "figura/avatars/Rarity/Textures/diamond.png"
+hash = "2fdbc4ac09cd87e52dfe30a12bfd6bb35ac660f1e816bcbe3fcd2058207a0658"
+
+[[files]]
+file = "figura/avatars/Rarity/Textures/gold.png"
+hash = "0a73b74e597dd5485791563a03264c1042c5377d93ace6baca9c2cbd06bf807d"
+
+[[files]]
+file = "figura/avatars/Rarity/Textures/iron.png"
+hash = "56e7e6b7fed68134382ece7403ed2ae7382a82ff06cc94d3a052389324dafda3"
+
+[[files]]
+file = "figura/avatars/Rarity/Textures/leather.png"
+hash = "3a51046b42003bd89156663af5a08aa88a2bdc198b37fa88a161a4970f6fa0c2"
+
+[[files]]
+file = "figura/avatars/Rarity/Textures/leather_o.png"
+hash = "10f6202421503d58898df822f49f9e473a0c58ad5c3a2083537b415a6736f452"
+
+[[files]]
+file = "figura/avatars/Rarity/Textures/netherite.png"
+hash = "b2f96706639f2abb263a9e708d37f47bc3cde07ea4bf49e78073487e23002458"
+
+[[files]]
+file = "figura/avatars/Rarity/Textures/texture.png"
+hash = "ec17ede1aacb88e7a2a02209a2a94fb0de4da739ff6a0d143835f017265291d2"
+
+[[files]]
+file = "figura/avatars/Rarity/Textures/texture_e.png"
+hash = "f531f233a1e06f23a540534db0edfffad514e9c5167eca0002d5c8f7896fe711"
+
+[[files]]
+file = "figura/avatars/Rarity/Textures/turtle.png"
+hash = "33ad1b542332688ef36e1c6ac28b6e32ae2c6b8b74ebbda077a13f32eaeaeae2"
+
+[[files]]
+file = "figura/avatars/Rarity/actionwheel.lua"
+hash = "8429a74d2af1529386ef84c36977adb205fe33b0cc5e79ba66a5e1bcf63e4f1d"
+
+[[files]]
+file = "figura/avatars/Rarity/avatar.json"
+hash = "069e9e72add0ee01a76d514944988e08ad5e88a81ab820e90e7e1f071167c017"
+
+[[files]]
+file = "figura/avatars/Rarity/locomotion.lua"
+hash = "6253a9b3d1667c3c260849ddf51124dba95f7cf5c019c85ea74627b99c2cec61"
+
+[[files]]
+file = "figura/avatars/Rarity/pony.bbmodel"
+hash = "a7b237d0e7226c5860adc2178271b42cf87ecfef1a8b6f3aacaad25f75b35892"
+
+[[files]]
+file = "figura/avatars/Rarity/pony.lua"
+hash = "8de5605086b5f09807c4f6c00a4ebce4763d9651283688e10bc2e6b50855500b"
+
+[[files]]
+file = "figura/avatars/Twilight Sparkle/GSAnimBlend.lua"
+hash = "aa43352aac3597396b468f55f5503dac0be9e570e05fdf1bf6b8f00ed121cb56"
+
+[[files]]
+file = "figura/avatars/Twilight Sparkle/InitValues.lua"
+hash = "f3377178c3b70e470873bcd0db0fca3ce2721deb1631a75c8d1a2f5c77e919a8"
+
+[[files]]
+file = "figura/avatars/Twilight Sparkle/KattArmorAPI.lua"
+hash = "57340b2619312c0ef1632d3a9c9a51084039037642d9d86e55272e3f23640d4e"
+
+[[files]]
+file = "figura/avatars/Twilight Sparkle/KattArmorCustomModel.lua"
+hash = "22a96d2e36c5caade2d641d247d4f01e296e71a2cbceebf6fbec502e20e22acb"
+
+[[files]]
+file = "figura/avatars/Twilight Sparkle/KattArmorCustomTextures.lua"
+hash = "1c21b01daa7709950d298b6cf15bc90579b0076356678a010ec4b42e63ea7030"
+
+[[files]]
+file = "figura/avatars/Twilight Sparkle/KattEventsAPI.lua"
+hash = "82d43d16427ea188a81169f0ae2cabb2d6a3163fbb9d46cf1ab6d0c7ac33e7d5"
+
+[[files]]
+file = "figura/avatars/Twilight Sparkle/KattItemChangeEvent.lua"
+hash = "b1e924d118ba855841335427ffcc4818f13721b8613caa264211ee7d0fd0e50f"
+
+[[files]]
+file = "figura/avatars/Twilight Sparkle/Textures/chainmail.png"
+hash = "d751c57800b977b664440dab224dacfcd9c8f8b6033914c2fe6fd8523a70fd30"
+
+[[files]]
+file = "figura/avatars/Twilight Sparkle/Textures/diamond.png"
+hash = "2fdbc4ac09cd87e52dfe30a12bfd6bb35ac660f1e816bcbe3fcd2058207a0658"
+
+[[files]]
+file = "figura/avatars/Twilight Sparkle/Textures/gold.png"
+hash = "0a73b74e597dd5485791563a03264c1042c5377d93ace6baca9c2cbd06bf807d"
+
+[[files]]
+file = "figura/avatars/Twilight Sparkle/Textures/iron.png"
+hash = "56e7e6b7fed68134382ece7403ed2ae7382a82ff06cc94d3a052389324dafda3"
+
+[[files]]
+file = "figura/avatars/Twilight Sparkle/Textures/leather.png"
+hash = "3a51046b42003bd89156663af5a08aa88a2bdc198b37fa88a161a4970f6fa0c2"
+
+[[files]]
+file = "figura/avatars/Twilight Sparkle/Textures/leather_o.png"
+hash = "10f6202421503d58898df822f49f9e473a0c58ad5c3a2083537b415a6736f452"
+
+[[files]]
+file = "figura/avatars/Twilight Sparkle/Textures/netherite.png"
+hash = "b2f96706639f2abb263a9e708d37f47bc3cde07ea4bf49e78073487e23002458"
+
+[[files]]
+file = "figura/avatars/Twilight Sparkle/Textures/texture.png"
+hash = "0690b2964d8e8aa5e2f922289907099a0e36ddabd9b84f58ee8f148788f375e3"
+
+[[files]]
+file = "figura/avatars/Twilight Sparkle/Textures/texture_e.png"
+hash = "c66fa4ba08adfc92781c90fc82c67093959c9fafa93571c9cdff3df33d38a656"
+
+[[files]]
+file = "figura/avatars/Twilight Sparkle/Textures/turtle.png"
+hash = "33ad1b542332688ef36e1c6ac28b6e32ae2c6b8b74ebbda077a13f32eaeaeae2"
+
+[[files]]
+file = "figura/avatars/Twilight Sparkle/actionwheel.lua"
+hash = "8429a74d2af1529386ef84c36977adb205fe33b0cc5e79ba66a5e1bcf63e4f1d"
+
+[[files]]
+file = "figura/avatars/Twilight Sparkle/avatar.json"
+hash = "2df47c7caea7ca9e3ac780af0f8ad453951327c9155f54a5b859252aed385844"
+
+[[files]]
+file = "figura/avatars/Twilight Sparkle/locomotion.lua"
+hash = "6253a9b3d1667c3c260849ddf51124dba95f7cf5c019c85ea74627b99c2cec61"
+
+[[files]]
+file = "figura/avatars/Twilight Sparkle/pony.bbmodel"
+hash = "6379749fc3ab38525074925ceeeb4ff4be8ff2ba4a3dbfb862a1552f1cfaac99"
+
+[[files]]
+file = "figura/avatars/Twilight Sparkle/pony.lua"
+hash = "8de5605086b5f09807c4f6c00a4ebce4763d9651283688e10bc2e6b50855500b"
+
+[[files]]
+file = "mods/advancement-plaques.pw.toml"
+hash = "d3a87d340439309a208ec67f0d9c8004458b315f39add685ee298909988f0d9b"
+metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
@@ -109,7 +678,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "7c5c3e69f7d2abcde972efc46603be697818d834f28e94bbdb4fd5ee565c1c9a"
+hash = "692e7637000ecfbef48e3efa3713dd7a21fd7485681f4445c95e5448385ff8ed"
 metafile = true
 
 [[files]]
@@ -149,7 +718,7 @@ metafile = true
 
 [[files]]
 file = "mods/bovines-and-buttercups.pw.toml"
-hash = "780428cf6390880a2d74a5364daed8083fd8f7402670df6145f6250f977e4a4f"
+hash = "8d5c317d0c2dffb597ff19cd8a8c849192cae76966459eb8e79a58a5caf35dbd"
 metafile = true
 
 [[files]]
@@ -165,6 +734,11 @@ metafile = true
 [[files]]
 file = "mods/cc-restitched.pw.toml"
 hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "1d9575d0feae2f134e8ed9ab7b455fc7071a06dc0b2324b4fdfd0ec3f6c9c8fc"
 metafile = true
 
 [[files]]
@@ -228,6 +802,11 @@ hash = "c28d737b72469888790e82be2278b748f99759f68d601f0ae9ed27c342546d5d"
 metafile = true
 
 [[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "b265d4be6b6eb71bef6442b76d96d49eec8e28f2fca6701f8f7471f30b95c511"
+metafile = true
+
+[[files]]
 file = "mods/create-crystal-clear-fabric.pw.toml"
 hash = "790d09e1bee44adf6f4867d2c63a4626c96c5b8eec0b9f8ea2a14f8465434f02"
 metafile = true
@@ -249,7 +828,7 @@ metafile = true
 
 [[files]]
 file = "mods/creeper-overhaul.pw.toml"
-hash = "afbedd7ed0e53042872115e1cdaeb00a7ce2dd7cd9569f3d589c4794c6c18ae7"
+hash = "e7d10d0a09ad04ad80fa377243546f4aaf2740feac244a5409a01018160f62a6"
 metafile = true
 
 [[files]]
@@ -268,8 +847,18 @@ hash = "2bbb1ff7bbecbdb7b484df35b823dae2abc4798a5c203a651d2ae0b0a707d119"
 metafile = true
 
 [[files]]
+file = "mods/custom-window-title.pw.toml"
+hash = "6670c459d79e48e809d6f3b7fb4e494e71c8ce7d63b9c522d46702467d272748"
+metafile = true
+
+[[files]]
 file = "mods/dcwa.pw.toml"
 hash = "6ec1e483b01e1feb7bb64f2f017bfd0f8a28b48a863b0c325ab7c78c86b9e2ad"
+metafile = true
+
+[[files]]
+file = "mods/desired-servers.pw.toml"
+hash = "2e1736000b7ff3c58bad89110f4fe0c2e700ebacfb1dd96db03318f5ca1e9d88"
 metafile = true
 
 [[files]]
@@ -304,7 +893,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "cdc7eee1590bd54a3011dd030d3567e2e417d7ef1af23d124190823370670e87"
+hash = "bdc0026a453334abaa888c085ea5f34c7a818406a79b8c4702d5345f883787cb"
 metafile = true
 
 [[files]]
@@ -369,7 +958,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "db0833b74adaffba56a0fbb77b5936be80acc646d9567f5b8904adb33985758f"
+hash = "c7864e8e3af437b95455a51a7dbb04bcc0f006eb70fcea661d25f8633295ff97"
 metafile = true
 
 [[files]]
@@ -390,6 +979,11 @@ metafile = true
 [[files]]
 file = "mods/horsebuff.pw.toml"
 hash = "a1f6e5c7010b82cc022a4ae37290966eff652658a0d0f6598d6519f068b659ae"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "a81c6e60f18faf727ed743029c8a4d093c6c96f0c450be7bf3535985ee6f4288"
 metafile = true
 
 [[files]]
@@ -458,6 +1052,11 @@ hash = "cbd6b97dfc49090b18480f43eeef4401144006ed406110f32fb1126d47a21f11"
 metafile = true
 
 [[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "e4958dc5dc67d3595710ee4b644edd1bed50eecf2fd990949487d47999e40729"
+metafile = true
+
+[[files]]
 file = "mods/let-sleeping-dogs-lie.pw.toml"
 hash = "b3567d0740e7870d2c807ae661a1f511933d3f227e62648477aa64b4e2af1dd3"
 metafile = true
@@ -478,6 +1077,11 @@ hash = "a4a461e73eb037dd5b5f3015a9a53d947c4533535b98f072f4ea96e90e9d68e4"
 metafile = true
 
 [[files]]
+file = "mods/main-menu-credits.pw.toml"
+hash = "1527caee4fc4f26b525a41a95dd07dae21ab3c8d2c391237c79396abf7e9b2d7"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "4716789e4a806c1cabcef27e67150215edb4c3d737e9a87d90f2f615d6c196cd"
 metafile = true
@@ -494,7 +1098,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "eb6ad65bc55853f87bbd72085e690fd914318b94e3108bb6583b8da4363f480b"
+hash = "8dacf68d0c4f0c16ee3b825ef56aaefc8d575b61ebfc0d4a647a86fe59a4d05e"
 metafile = true
 
 [[files]]
@@ -518,8 +1122,18 @@ hash = "8bad8c9de76befcc2d3335022417b8a89983f2c4ea8dc547911d7104367f626a"
 metafile = true
 
 [[files]]
+file = "mods/music-maker-mod.pw.toml"
+hash = "3fec8029557477050028db32ad53e446a236de156a20eb2292a8e9e4f5771db7"
+metafile = true
+
+[[files]]
 file = "mods/nbt-crafting.pw.toml"
 hash = "092562cce93b133cdd4f9a0004a104914fd9f639941fb4c2401054fac0124f15"
+metafile = true
+
+[[files]]
+file = "mods/no-tutorial-toasts.pw.toml"
+hash = "31b8f514d0149813a7749d29d6c62c10911eb19cecf4a9c5bdb83a021dac5505"
 metafile = true
 
 [[files]]
@@ -530,6 +1144,16 @@ metafile = true
 [[files]]
 file = "mods/pettable.pw.toml"
 hash = "43f11eb7babcc05358ac4e1c4148776ee7fe5c224dc6d92ef7045649c799cbb5"
+metafile = true
+
+[[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "8134c08af1ac4d5c8aef4b134d205fb12b202c2a6ad323cc93b7bb8ada19de21"
+metafile = true
+
+[[files]]
+file = "mods/renameit.pw.toml"
+hash = "9c44b0b3aa2770f6a7f09e3858d6db1bfd320b2ba3ca57b9c0e856eb6f6da1d3"
 metafile = true
 
 [[files]]
@@ -559,7 +1183,12 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "9f7ce104c709103550148f4ff79acd17f9f93901224166445de1052b681c09da"
+hash = "3b3f8dad7310746ff9a80092827faf48d284121c54399504be46c0da9d9ca508"
+metafile = true
+
+[[files]]
+file = "mods/splasher.pw.toml"
+hash = "70f07360f4f538fcd48cd8d157bd90f1c916a96e9bd8ac401428ebb2f561c51a"
 metafile = true
 
 [[files]]
@@ -633,10 +1262,45 @@ hash = "003dee7fef878abc298c3c6589b7b21e8922def090c9cf8259ae8c6aacc0946f"
 metafile = true
 
 [[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "23cb843e7c0e54790c8d999425a7e4a602c7fdc2f25579a6998797a90e0f0348"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+hash = "8323d5b77249afed08a178a9a8002ef7a09850e3e3c9dfb942cae17403748565"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "50c2ce35a2678f4666e700b43da4c48d2a47fbd04ac35cc735ca20a846686aed"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "db24b9f5262599c4a358be6e80e78a9fc0e4ad46b4dd00435aca9f76a60d7ca0"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "7d818ac96ba8ed8eaeeaffc8704d94569d9a00a570f09321b404299afc154a24"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "455bd61468b04ec66000901d5c112a97dabd3343f9e6d96ad3c148726e7c5bf8"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+hash = "14d7190f311125e364f288daabdcb92737164a26c9198a4e8901c718776f6fdd"
+metafile = true
+
+[[files]]
 file = "mods/zoomify.pw.toml"
 hash = "df9929f0a90f0c54a870ed182c0543ce579d07b84089d2fec6131917c53b5bab"
 metafile = true
 
 [[files]]
 file = "resourcepacks/coins-to-bits.zip"
-hash = "0ad37706637b5ad005ca3363e4507ffa206c700822ac9d934b371e2906be0e3a"
+hash = "beae3040369daad5a398ee1a580da6530bfe855c10304d65190a4520564e5eea"

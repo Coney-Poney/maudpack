@@ -1,0 +1,12 @@
+[
+  {
+    "serverName": "Coney Poney SurvivalMod",
+    "serverIP": "survivalmod.celestecaprine.com:25585",
+    "forceResourcePack": "true"
+  },
+  {
+    "serverName": "Coney Poney CreativeMod",
+    "serverIP": "creativemod.celestecaprine.com:25585",
+    "forceResourcePack": "true"
+  }
+]

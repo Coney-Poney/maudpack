@@ -1,0 +1,13 @@
+name = "RenameIt"
+filename = "renameit-1.4.0+1.19.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zrUmyoDl/versions/Q4b5wgJG/renameit-1.4.0%2B1.19.x.jar"
+hash-format = "sha1"
+hash = "ef795e4928977ec92218d2af5822c3c264c1e3e2"
+
+[update]
+[update.modrinth]
+mod-id = "zrUmyoDl"
+version = "Q4b5wgJG"

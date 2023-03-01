@@ -1,12 +1,12 @@
-name = "workingtitle-modpack"
+name = "Maudpack"
 author = "Coney Poney"
-version = "dev"
+version = "rc-1-dev"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9ed1299c8f7a9530f720f2e434489ff8b3c09a73046a18fd5a207abfd2b02ee9"
+hash = "f702c283ca84ee49fde0773ed927b1ea10eccb87b346f1e86ff0e7c04090c5ef"
 
 [versions]
 fabric = "0.14.13"

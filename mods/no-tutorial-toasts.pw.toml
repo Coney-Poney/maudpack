@@ -1,0 +1,13 @@
+name = "No Tutorial Toasts"
+filename = "NoTutorialToasts-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/mCNtqH4S/versions/Cn8YOpEE/NoTutorialToasts-1.0.0.jar"
+hash-format = "sha1"
+hash = "f3419c3a046a2d17e15ef46dd421a2ecae7e615c"
+
+[update]
+[update.modrinth]
+mod-id = "mCNtqH4S"
+version = "Cn8YOpEE"
