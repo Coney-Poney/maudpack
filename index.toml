@@ -50,7 +50,7 @@ hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
 
 [[files]]
 file = "config/fabrication/features.ini"
-hash = "2b050a2f169763d8d60e5d4df5221ebad7a275677ed2296fad4e7f5f63f7ab4f"
+hash = "1bea09d994249c4885828bb085cc1a3d49b92e95993b17f59bdfcdd817803607"
 
 [[files]]
 file = "config/fabrication/fscript.ini"
