@@ -1,0 +1,33 @@
+site_name: Maudpack Install Guide
+nav:
+  - Home: index.md
+  - Installation: install.md
+  - Configuration: configuration.md
+  - Tips and Tricks: tipsandtricks.md
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.footer
+  logo: resources/maudpack.svg
+  favicon: resources/maudpack.svg
+  palette:
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch color scheme
+      primary: deep purple
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch
+        name: Switch color scheme
+      primary: deep purple
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/coney-poney
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/D4z7AHwWqD
+    - icon: fontawesome/brands/mastodon
+      link: https://equestria.social/@coneyponey
+copyright: Written by Shebang

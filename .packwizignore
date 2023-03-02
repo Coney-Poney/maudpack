@@ -2,3 +2,5 @@
 /.github
 /version-name.sh
 /resources
+/docs
+/mkdocs.yml
