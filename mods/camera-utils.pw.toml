@@ -1,0 +1,13 @@
+name = "Camera Utils"
+filename = "camerautils-1.19.2-1.0.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rrwQMaWQ/versions/efnXM4hB/camerautils-1.19.2-1.0.3.jar"
+hash-format = "sha1"
+hash = "097e61337c34d23aa92a77fea5fc1796a9582fe0"
+
+[update]
+[update.modrinth]
+mod-id = "rrwQMaWQ"
+version = "efnXM4hB"

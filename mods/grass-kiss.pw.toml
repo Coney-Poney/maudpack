@@ -1,0 +1,13 @@
+name = "GrassKiss"
+filename = "grasskiss-1.19.1-fabric0.58.5-0.5.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/KelLCoVr/versions/1.19.1-fabric0.58.5-0.5.0/grasskiss-1.19.1-fabric0.58.5-0.5.0.jar"
+hash-format = "sha1"
+hash = "0918a1b4c0b2580236bb94801cb09207b8e55dde"
+
+[update]
+[update.modrinth]
+mod-id = "KelLCoVr"
+version = "YhVCrhEC"

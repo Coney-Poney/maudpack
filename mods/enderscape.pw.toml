@@ -1,0 +1,13 @@
+name = "Enderscape"
+filename = "enderscape-0.4.1-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/btCrWvHr/versions/HA3ueujD/enderscape-0.4.1-1.19.2.jar"
+hash-format = "sha1"
+hash = "20012da1b962ac05a0347cdb061d7ff865139ea1"
+
+[update]
+[update.modrinth]
+mod-id = "btCrWvHr"
+version = "HA3ueujD"

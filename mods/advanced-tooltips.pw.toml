@@ -1,0 +1,13 @@
+name = " Advanced Tooltips"
+filename = "advancedtooltips-1.6.0+1.19.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/hErQiboW/versions/1.6.0%2B1.19/advancedtooltips-1.6.0%2B1.19.jar"
+hash-format = "sha1"
+hash = "b3da299586a18362f4509f4fe34eae8ae8967195"
+
+[update]
+[update.modrinth]
+mod-id = "hErQiboW"
+version = "wEfmDxCZ"
