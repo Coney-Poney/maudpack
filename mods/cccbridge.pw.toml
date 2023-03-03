@@ -1,13 +1,13 @@
 name = "CC:C Bridge"
-filename = "cccbridge-1.4.0-fabric.jar"
+filename = "cccbridge-1.4.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fXt291FO/versions/mEqr6s4n/cccbridge-1.4.0-fabric.jar"
+url = "https://cdn.modrinth.com/data/fXt291FO/versions/JWA3Ln0O/cccbridge-1.4.1-fabric.jar"
 hash-format = "sha1"
-hash = "cee5eb69e40f95512c4d92df9ac2da5f0ca9a629"
+hash = "1bf409942a4f4cd821f5244c71e1e86dd7b0f23f"
 
 [update]
 [update.modrinth]
 mod-id = "fXt291FO"
-version = "mEqr6s4n"
+version = "JWA3Ln0O"

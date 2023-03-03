@@ -714,7 +714,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "692e7637000ecfbef48e3efa3713dd7a21fd7485681f4445c95e5448385ff8ed"
+hash = "e37967152aa65463b0bab3ef853f54b7cfe17f633bffef66b67c3b8a4d80324f"
 metafile = true
 
 [[files]]
@@ -759,7 +759,7 @@ metafile = true
 
 [[files]]
 file = "mods/bovines-and-buttercups.pw.toml"
-hash = "8d5c317d0c2dffb597ff19cd8a8c849192cae76966459eb8e79a58a5caf35dbd"
+hash = "193ca9920b053f1b260babfa180efbe2168a2f77d98e2d86f391af740e2ecdcf"
 metafile = true
 
 [[files]]
@@ -794,7 +794,7 @@ metafile = true
 
 [[files]]
 file = "mods/cccbridge.pw.toml"
-hash = "1d9575d0feae2f134e8ed9ab7b455fc7071a06dc0b2324b4fdfd0ec3f6c9c8fc"
+hash = "72a444170f6963bc57c323f98d01d22bdcd400be26a2bfd1d3d02ea34ad096de"
 metafile = true
 
 [[files]]
@@ -979,7 +979,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrication.pw.toml"
-hash = "29e253a780cc6344f44a63d648d8b8424f2fdfc687b8ea2937d96532566d1cd5"
+hash = "79e5562142dbe96b8c55405ac7ffcbf3cf54080cae1f470d7d41ce8b68f6b8d7"
 metafile = true
 
 [[files]]
@@ -1424,12 +1424,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "991956069fdb629e0c7cc59cc3a94915999d152f99c9f059282e6ad7f596fe22"
+hash = "1a3eab9fd9cdc70f36dd1dff01a48a6cb5113cf3482861646db3262bba99e27d"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "2ff3f34d3419efe9a339e925ebd733fb15ad484b05d4cb02daad199b5d5a6ddd"
+hash = "ac0fbe596777dd0c79e857b079bc284a68e138e7b6431995d30640821acbb67f"
 metafile = true
 
 [[files]]
@@ -1449,12 +1449,12 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "23cb843e7c0e54790c8d999425a7e4a602c7fdc2f25579a6998797a90e0f0348"
+hash = "b9bed718277e195ff3ffbf9e031c02edbc38d36bdef3ed545eb4faf4cc486304"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-desert-temples.pw.toml"
-hash = "8323d5b77249afed08a178a9a8002ef7a09850e3e3c9dfb942cae17403748565"
+hash = "a0c90cf55ee22034d8c84e8ff9a9170792c37a242aa2ddbd3635c497c0281f76"
 metafile = true
 
 [[files]]
