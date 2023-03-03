@@ -1233,6 +1233,11 @@ hash = "8dacf68d0c4f0c16ee3b825ef56aaefc8d575b61ebfc0d4a647a86fe59a4d05e"
 metafile = true
 
 [[files]]
+file = "mods/more-mob-variants.pw.toml"
+hash = "d91e9e9b3810e9477226b3bd242b410e1e777d14ab674e6db4bbcb7e1e1e0117"
+metafile = true
+
+[[files]]
 file = "mods/more-villagers-fabric.pw.toml"
 hash = "ff6a43dcc382e17d47694ada1e704b7023d33a96aac2c78f6651109a332e56b5"
 metafile = true
@@ -1278,11 +1283,6 @@ hash = "bf98fdcfc6af334665be9b77e343c217cb9c7bc0c13ea43b6e9142816653f774"
 metafile = true
 
 [[files]]
-file = "mods/pack-it-up.pw.toml"
-hash = "dcb1fd6f3f7c019621bf2cc1bc3479b6cca742fae0d61dc4eb5a6061d2da7625"
-metafile = true
-
-[[files]]
 file = "mods/pettable.pw.toml"
 hash = "43f11eb7babcc05358ac4e1c4148776ee7fe5c224dc6d92ef7045649c799cbb5"
 metafile = true
@@ -1320,6 +1320,11 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
 hash = "885f1cb690e38020936cb7b62db9136994f1f758e26794772bf4db4a3f596c41"
+metafile = true
+
+[[files]]
+file = "mods/scout.pw.toml"
+hash = "10886b2438dab2be9b49c79eaf099771e526246f06c2a382ef56100bbcc73077"
 metafile = true
 
 [[files]]
