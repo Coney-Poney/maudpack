@@ -803,6 +803,11 @@ hash = "b3eda177d099ef511ccdd9d738d902c6c10f4037bd7dd0869ae9a3ff545a5d91"
 metafile = true
 
 [[files]]
+file = "mods/chimes.pw.toml"
+hash = "909b55ac783674e90b97d08098f3d2ef7d111011b5a607a1eb30821150b60166"
+metafile = true
+
+[[files]]
 file = "mods/chunks-fade-in.pw.toml"
 hash = "1a62c3ac192635b6d4e6dfd11983bfc398c471465b0236c284b8a063e1989621"
 metafile = true
@@ -1420,11 +1425,6 @@ metafile = true
 [[files]]
 file = "mods/wanderers-catalogue.pw.toml"
 hash = "03c7682c6da0b60c7aa3f91b988562b118052f5bdaebb2403cc26b8ee72e99c2"
-metafile = true
-
-[[files]]
-file = "mods/windchimes.pw.toml"
-hash = "da56f8d502498b731410138e36d618600fc7c3bff2d99cb342af1c6ef9840823"
 metafile = true
 
 [[files]]
