@@ -1,0 +1,12 @@
+{
+  "renderEmoji": true,
+  "emojiSelector": true,
+  "emojiAutocomplete": true,
+  "gifEmojis": true,
+  "emojiReplacement": false,
+  "enableLoadTwemoji": true,
+  "loadCustom": true,
+  "loadDatapack": true,
+  "profanityFilter": false,
+  "profanityFilterReplacement": ":swear:"
+}

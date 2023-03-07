@@ -37,6 +37,10 @@ file = "config/desiredservers/desiredservers.json"
 hash = "d71c814a5d383f02cd951f6c226a6ade14a6c5a731228c3f3b83832a1ec7b9e2"
 
 [[files]]
+file = "config/emojiful.json"
+hash = "0e5c6c2cb033399f78ca8be0a1a0dc764c5b81d0889b54dcb66f634c4b4cabf7"
+
+[[files]]
 file = "config/fabrication/block_logo.ini"
 hash = "1a58d3ffaaf266eb0f6f3574f15559689fa237be980a13b741834d640d9a8375"
 
@@ -973,6 +977,11 @@ hash = "26ce46903b0f7c33c0d54f20967ded566fbc9910d72151810b2eb7e475077c7b"
 metafile = true
 
 [[files]]
+file = "mods/explosive-enhancement.pw.toml"
+hash = "970495778ec0ffeb208492811dfd0e135ce149843ba7174d0a629a8c67a1d400"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "bdc0026a453334abaa888c085ea5f34c7a818406a79b8c4702d5345f883787cb"
 metafile = true
@@ -1035,11 +1044,6 @@ metafile = true
 [[files]]
 file = "mods/first-join-message.pw.toml"
 hash = "e4f2ed8651a1fd63de48bdcbe674b72365a7e3f88c1ce98b9de638b0daea18c7"
-metafile = true
-
-[[files]]
-file = "mods/flan.pw.toml"
-hash = "c3b56911a8c3abf330be9a5a31c9c23159ca68124099465d8d094db97b898b17"
 metafile = true
 
 [[files]]
@@ -1143,6 +1147,11 @@ hash = "69db7a4aa6bf2136864de6a5109c3549d589f11005e9663c6b4d2b6947e6d7c3"
 metafile = true
 
 [[files]]
+file = "mods/keymap.pw.toml"
+hash = "fd4b368219f77d94ff5616faf9225f48a09a2b29e22651dca96236589cd81194"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
 metafile = true
@@ -1223,6 +1232,11 @@ hash = "2c44f182a7875bcb8447c004078c79c4f7bad9ec3ccfe63586f2127f1fa74a58"
 metafile = true
 
 [[files]]
+file = "mods/midnightcontrols.pw.toml"
+hash = "3c65e87193d79b218c0636cdfeca699ad6edcdbea035abfc7ce59005f1b4fb42"
+metafile = true
+
+[[files]]
 file = "mods/missing-wilds.pw.toml"
 hash = "b5fe555103b7d74bee3d0fcb995340c4a3bc9e7aa36b4d65cfdff12aad5e3cd6"
 metafile = true
@@ -1280,6 +1294,11 @@ metafile = true
 [[files]]
 file = "mods/no-tutorial-toasts.pw.toml"
 hash = "31b8f514d0149813a7749d29d6c62c10911eb19cecf4a9c5bdb83a021dac5505"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "648809852852bf246eb4fd2d454ae0c32667ef40c6187af35a0cf80ca0805e41"
 metafile = true
 
 [[files]]
