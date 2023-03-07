@@ -1297,6 +1297,11 @@ hash = "31b8f514d0149813a7749d29d6c62c10911eb19cecf4a9c5bdb83a021dac5505"
 metafile = true
 
 [[files]]
+file = "mods/opac-fabric-create-support.pw.toml"
+hash = "50bd803afaf12d3406ad7bf1781e2f75bb38bbccb5d7720c32cf6f833a97eb15"
+metafile = true
+
+[[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "648809852852bf246eb4fd2d454ae0c32667ef40c6187af35a0cf80ca0805e41"
 metafile = true
