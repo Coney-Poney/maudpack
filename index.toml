@@ -1047,6 +1047,11 @@ hash = "e4f2ed8651a1fd63de48bdcbe674b72365a7e3f88c1ce98b9de638b0daea18c7"
 metafile = true
 
 [[files]]
+file = "mods/flan.pw.toml"
+hash = "c3b56911a8c3abf330be9a5a31c9c23159ca68124099465d8d094db97b898b17"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "3a68d8f694877589b9d29bd7b44b590a123007f28142d0deed1ba34c9b90b51c"
 metafile = true
@@ -1294,16 +1299,6 @@ metafile = true
 [[files]]
 file = "mods/no-tutorial-toasts.pw.toml"
 hash = "31b8f514d0149813a7749d29d6c62c10911eb19cecf4a9c5bdb83a021dac5505"
-metafile = true
-
-[[files]]
-file = "mods/opac-fabric-create-support.pw.toml"
-hash = "50bd803afaf12d3406ad7bf1781e2f75bb38bbccb5d7720c32cf6f833a97eb15"
-metafile = true
-
-[[files]]
-file = "mods/open-parties-and-claims.pw.toml"
-hash = "648809852852bf246eb4fd2d454ae0c32667ef40c6187af35a0cf80ca0805e41"
 metafile = true
 
 [[files]]
