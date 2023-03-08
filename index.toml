@@ -722,11 +722,6 @@ hash = "e37967152aa65463b0bab3ef853f54b7cfe17f633bffef66b67c3b8a4d80324f"
 metafile = true
 
 [[files]]
-file = "mods/bclib.pw.toml"
-hash = "ab6dc95a659eae917ed5afa8ce4c4540be91d3e77290902b37eb6a08f0537f5f"
-metafile = true
-
-[[files]]
 file = "mods/bedspreads.pw.toml"
 hash = "6eb0b682608efaf6c7e6b7310014a2933f4563422a9e0bbc96a05ad4ed57b900"
 metafile = true
@@ -957,11 +952,6 @@ hash = "8c4e940904b898bfa969a70045ecea49588f70d09413d45e1c41cb437bf27789"
 metafile = true
 
 [[files]]
-file = "mods/enderscape.pw.toml"
-hash = "0cf50ca461e5fdb9af2ddc0a5d9661b6d578b0897dd6597a875255e4ed656450"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "bf886d03a194a4036f02afe690cb21ca346fff20f4193355994ec97f046a8809"
 metafile = true
@@ -1119,6 +1109,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
+metafile = true
+
+[[files]]
+file = "mods/invview.pw.toml"
+hash = "7cfacba402f52a71096bda72ede806b9b6964c2c807019da76f4e27fa839c8a5"
 metafile = true
 
 [[files]]
