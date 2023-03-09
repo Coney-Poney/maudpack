@@ -34,7 +34,7 @@ hash = "8551036b1d1928c816699439a2d4126467fdbc1b14ee965b210ada66d1a0a89b"
 
 [[files]]
 file = "config/desiredservers/desiredservers.json"
-hash = "d71c814a5d383f02cd951f6c226a6ade14a6c5a731228c3f3b83832a1ec7b9e2"
+hash = "43829827940912dc57bce074e4aaa281d9ea8a128f847d492e029e957dda7cd5"
 
 [[files]]
 file = "config/emojiful.json"
