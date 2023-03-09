@@ -888,7 +888,7 @@ metafile = true
 
 [[files]]
 file = "mods/creeper-overhaul.pw.toml"
-hash = "e7d10d0a09ad04ad80fa377243546f4aaf2740feac244a5409a01018160f62a6"
+hash = "642eddaba1a9b68caf3fe8e193bb9600d20489c071ad97705e4a51e10234cc6e"
 metafile = true
 
 [[files]]

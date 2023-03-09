@@ -3,11 +3,11 @@ filename = "creeperoverhaul-2.0.8-fabric.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/MI1LWe93/versions/lUsvfN4h/creeperoverhaul-2.0.8-fabric.jar"
 hash-format = "sha1"
 hash = "220fb2709190a52e04fe96eac5863cefb515f432"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4412633
-project-id = 561625
+[update.modrinth]
+mod-id = "MI1LWe93"
+version = "lUsvfN4h"
