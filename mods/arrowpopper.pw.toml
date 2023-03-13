@@ -1,0 +1,13 @@
+name = "Arrow Popper"
+filename = "arrowpopper-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PaFDTO3A/versions/CoMNsP1p/arrowpopper-1.0.0.jar"
+hash-format = "sha1"
+hash = "02fb022ce2c30c05c58844bc95023d9955ed971a"
+
+[update]
+[update.modrinth]
+mod-id = "PaFDTO3A"
+version = "CoMNsP1p"

@@ -1,0 +1,13 @@
+name = "Arrow Entity Loot Drop"
+filename = "arrow-entity-loot-drop-1.1.0+1.19.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/8fwMwfhb/versions/v6gQDIcn/arrow-entity-loot-drop-1.1.0%2B1.19.jar"
+hash-format = "sha1"
+hash = "d2736860559db75d7cfa99f7bb7636e8b554daa4"
+
+[update]
+[update.modrinth]
+mod-id = "8fwMwfhb"
+version = "v6gQDIcn"
