@@ -22,7 +22,7 @@ hash = "8636fc06d89ac4f08daa416fad7295d2434effa71d61e501186b0e2af29f5d34"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "a7e5828451ee73c3557e4f337a53c367817d659533d864090adef679c9a5e44a"
+hash = "739188daf1501f85897d6a0f7e6e307e8d4e12340c2d1dc834c55b1c665f83bf"
 
 [[files]]
 file = "config/customwindowtitle/icon-16.png"
@@ -90,7 +90,7 @@ hash = "d4359e41189d45d7ed0fb60f6595997b9e348b299c34fe50c80180afbe597cee"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "3b88a44f3b66c47bd94de74f0800db8bac14f3155e8d812ec05ab4a39e38fb82"
+hash = "fe78b3c51b4ed427d7798420fbeb85ef19b26c190938c2da2f6cc176d0f6f2bb"
 
 [[files]]
 file = "config/lithium.properties"
