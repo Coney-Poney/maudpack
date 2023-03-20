@@ -1,13 +1,13 @@
 name = "Maudpack"
 author = "Coney Poney"
-version = "1.0"
+version = "1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d982a9a12a6a432e2eda6df02dbded1a2d33190b778b7be5bea9dd2c3a6637ec"
+hash = "110092e0a71f2bd8a52388c1482f2e99a355aebad56857dbbe595bd4516f52d2"
 
 [versions]
-fabric = "0.14.13"
+fabric = "0.14.17"
 minecraft = "1.19.2"

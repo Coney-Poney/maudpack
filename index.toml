@@ -206,7 +206,7 @@ hash = "445ebd4a5981a654f608e2f258c649c0e33a5a3b954a6b42b867344072a9d060"
 
 [[files]]
 file = "figura/avatars/Applejack/locomotion.lua"
-hash = "6253a9b3d1667c3c260849ddf51124dba95f7cf5c019c85ea74627b99c2cec61"
+hash = "cdb6b46c044a600e77ca07fac0cd89db1064baa0a500ef003af025e8018e4a86"
 
 [[files]]
 file = "figura/avatars/Applejack/pony.bbmodel"
@@ -294,7 +294,7 @@ hash = "c92cd5035eca85fec0a431a81b7b1a2d2415ae91236954470b8a8469ad0b102f"
 
 [[files]]
 file = "figura/avatars/Fluttershy/locomotion.lua"
-hash = "6253a9b3d1667c3c260849ddf51124dba95f7cf5c019c85ea74627b99c2cec61"
+hash = "cdb6b46c044a600e77ca07fac0cd89db1064baa0a500ef003af025e8018e4a86"
 
 [[files]]
 file = "figura/avatars/Fluttershy/pony.bbmodel"
@@ -382,7 +382,7 @@ hash = "bdfd092ef0ddbd26441b4fd80efc15f66b5f6fae2f41103d0cd085a977ce1c05"
 
 [[files]]
 file = "figura/avatars/Pinkie Pie/locomotion.lua"
-hash = "6253a9b3d1667c3c260849ddf51124dba95f7cf5c019c85ea74627b99c2cec61"
+hash = "cdb6b46c044a600e77ca07fac0cd89db1064baa0a500ef003af025e8018e4a86"
 
 [[files]]
 file = "figura/avatars/Pinkie Pie/pony.bbmodel"
@@ -470,7 +470,7 @@ hash = "6d658fb93fa36f9bda7781ac5681c82e3ceae78a2c98a726149fa599698f6cf7"
 
 [[files]]
 file = "figura/avatars/Rainbow Dash/locomotion.lua"
-hash = "6253a9b3d1667c3c260849ddf51124dba95f7cf5c019c85ea74627b99c2cec61"
+hash = "cdb6b46c044a600e77ca07fac0cd89db1064baa0a500ef003af025e8018e4a86"
 
 [[files]]
 file = "figura/avatars/Rainbow Dash/pony.bbmodel"
@@ -558,7 +558,7 @@ hash = "069e9e72add0ee01a76d514944988e08ad5e88a81ab820e90e7e1f071167c017"
 
 [[files]]
 file = "figura/avatars/Rarity/locomotion.lua"
-hash = "6253a9b3d1667c3c260849ddf51124dba95f7cf5c019c85ea74627b99c2cec61"
+hash = "cdb6b46c044a600e77ca07fac0cd89db1064baa0a500ef003af025e8018e4a86"
 
 [[files]]
 file = "figura/avatars/Rarity/pony.bbmodel"
@@ -646,7 +646,7 @@ hash = "2df47c7caea7ca9e3ac780af0f8ad453951327c9155f54a5b859252aed385844"
 
 [[files]]
 file = "figura/avatars/Twilight Sparkle/locomotion.lua"
-hash = "6253a9b3d1667c3c260849ddf51124dba95f7cf5c019c85ea74627b99c2cec61"
+hash = "cdb6b46c044a600e77ca07fac0cd89db1064baa0a500ef003af025e8018e4a86"
 
 [[files]]
 file = "figura/avatars/Twilight Sparkle/pony.bbmodel"
@@ -1038,7 +1038,7 @@ metafile = true
 
 [[files]]
 file = "mods/figura.pw.toml"
-hash = "552559fc09df74f383b3090a7b205a8c60704950e7f65f218c2e795b4fb176fe"
+hash = "0a8ef05c925567dfba2117bc068fbfcc9cd1136f85753e84287214e0c9db9a8b"
 metafile = true
 
 [[files]]
@@ -1108,7 +1108,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
-hash = "2043457c139d9d0401bfb1ce6cc108bf1a31924621832287da7b0345b0df6a5d"
+hash = "eb29c36ceb7c1e4e8a4ed0d9dff63cd76c15c12e96656fc79de9e99f68a26e5c"
 metafile = true
 
 [[files]]
@@ -1203,7 +1203,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "28b3808ae3e3e5bcc8f2a6dfe40c539a2e55afd3687e41c681dc408021e395ef"
+hash = "54a337d13450b35dfc931e7a5f3ed9fca1a1992ec51d3b1e4ea1cb5f7cd2d09c"
 metafile = true
 
 [[files]]
@@ -1258,7 +1258,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "8dacf68d0c4f0c16ee3b825ef56aaefc8d575b61ebfc0d4a647a86fe59a4d05e"
+hash = "099d4eef3ca445c0cb12cc5e3a2f767531d1fabccaa62d9cfce20cab4e690169"
 metafile = true
 
 [[files]]
@@ -1273,7 +1273,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "79e31e1697a4121696b9a1817ff75ebe58af1514f132cdc64522d4ca4e0cdd08"
+hash = "631a4aeea3ca16afe689e67c409cb39d18af269e1eecd944d042a85a88d34314"
 metafile = true
 
 [[files]]
@@ -1348,7 +1348,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "885f1cb690e38020936cb7b62db9136994f1f758e26794772bf4db4a3f596c41"
+hash = "f37d98015547fa4c5c392eec612376bebf6af9ed83cde466938bebf60c7ab68d"
 metafile = true
 
 [[files]]
@@ -1453,7 +1453,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "34e80d810fd6f1743e1f9918932fe056ab78c3b90f446709ae89b839f31817dd"
+hash = "2dbdf297daf4b7c0e12e49df36834e64be9a1d584e76cfd21e1b876897623210"
 metafile = true
 
 [[files]]
@@ -1478,7 +1478,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "b9bed718277e195ff3ffbf9e031c02edbc38d36bdef3ed545eb4faf4cc486304"
+hash = "e8036308d5fdaf3e155684892dffa19122c31745c40fbe55027a1677179263d7"
 metafile = true
 
 [[files]]
