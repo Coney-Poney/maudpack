@@ -17,6 +17,10 @@ file = "config/chunksfadein.properties"
 hash = "a321f9b7191f09b4831d05d0df123f5f48ae2cb3c0aa7e7ef262a8e916bf86d9"
 
 [[files]]
+file = "config/companion-common.toml"
+hash = "545c24ba1285412a24585f704a305c3d34bf66a594495f0d467761772e8a57e0"
+
+[[files]]
 file = "config/creeperoverhaul.json"
 hash = "8636fc06d89ac4f08daa416fad7295d2434effa71d61e501186b0e2af29f5d34"
 
@@ -1409,11 +1413,6 @@ metafile = true
 [[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
-metafile = true
-
-[[files]]
-file = "mods/server-chat-history.pw.toml"
-hash = "d0fc643e099e25a108693492f6f88913801dc96c52bb91d6ecc53fcdd1bb98d5"
 metafile = true
 
 [[files]]
