@@ -5,11 +5,11 @@
     "bottom_left": [
       [
         {
-          "text": "Maudpack 1.1",
+          "text": "Maudpack 2.0",
           "color": "#9885B7",
           "clickEvent": {
             "action": "open_url",
-            "value": "https://github.com/Coney-Poney/workingtitle-modpack"
+            "value": "https://github.com/Coney-Poney/maudpack"
           }
         },
         {
@@ -17,7 +17,7 @@
           "color": "white",
           "clickEvent": {
             "action": "open_url",
-            "value": "https://github.com/Coney-Poney/workingtitle-modpack"
+            "value": "https://github.com/Coney-Poney/maudpack"
           }
         },
         {
@@ -25,7 +25,7 @@
           "color": "white",
           "clickEvent": {
             "action": "open_url",
-            "value": "https://github.com/Coney-Poney/workingtitle-modpack"
+            "value": "https://github.com/Coney-Poney/maudpack"
           }
         },
         {
@@ -33,7 +33,7 @@
           "color": "white",
           "clickEvent": {
             "action": "open_url",
-            "value": "https://github.com/Coney-Poney/workingtitle-modpack"
+            "value": "https://github.com/Coney-Poney/maudpack"
           }
         },
         {
@@ -41,7 +41,7 @@
           "color": "red",
           "clickEvent": {
             "action": "open_url",
-            "value": "https://github.com/Coney-Poney/workingtitle-modpack"
+            "value": "https://github.com/Coney-Poney/maudpack"
           }
         }
       ]
@@ -56,11 +56,11 @@
     "bottom_right": [
       [
         {
-          "text": "Maudpack 1.1",
+          "text": "Maudpack 2.0",
           "color": "#9885B7",
           "clickEvent": {
             "action": "open_url",
-            "value": "https://github.com/Coney-Poney/workingtitle-modpack"
+            "value": "https://github.com/Coney-Poney/maudpack"
           }
         },
         {
@@ -68,7 +68,7 @@
           "color": "white",
           "clickEvent": {
             "action": "open_url",
-            "value": "https://github.com/Coney-Poney/workingtitle-modpack"
+            "value": "https://github.com/Coney-Poney/maudpack"
           }
         },
         {
@@ -76,7 +76,7 @@
           "color": "white",
           "clickEvent": {
             "action": "open_url",
-            "value": "https://github.com/Coney-Poney/workingtitle-modpack"
+            "value": "https://github.com/Coney-Poney/maudpack"
           }
         },
         {
@@ -84,7 +84,7 @@
           "color": "white",
           "clickEvent": {
             "action": "open_url",
-            "value": "https://github.com/Coney-Poney/workingtitle-modpack"
+            "value": "https://github.com/Coney-Poney/maudpack"
           }
         },
         {
@@ -92,7 +92,7 @@
           "color": "red",
           "clickEvent": {
             "action": "open_url",
-            "value": "https://github.com/Coney-Poney/workingtitle-modpack"
+            "value": "https://github.com/Coney-Poney/maudpack"
           }
         }
       ]
