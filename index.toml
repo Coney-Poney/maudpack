@@ -926,11 +926,6 @@ hash = "4624545fb9b7d701566f0766e803835fdf4d3a0471bf34fbca9ccb72a7290f29"
 metafile = true
 
 [[files]]
-file = "mods/crossstitch.pw.toml"
-hash = "27d8c96d3721eb06ad12bc963d99d50eb1f48fe4c6f19b6c39e8f92876a12e1b"
-metafile = true
-
-[[files]]
 file = "mods/cull-less-leaves.pw.toml"
 hash = "c06e098c6d6eda6da4492e4a8dff1796e6081bbd30f487ffb89e1ed3c485e805"
 metafile = true
@@ -1033,11 +1028,6 @@ metafile = true
 [[files]]
 file = "mods/fabrication.pw.toml"
 hash = "21fa19f322a45a7782450d62a15e8556da96cd442c79ed6d85eb5efa102c2910"
-metafile = true
-
-[[files]]
-file = "mods/fabricproxy-lite.pw.toml"
-hash = "92c92ffb7a6ee49e51bf3a34537c9829351e7f702d83c3340843d2095f8f6ad5"
 metafile = true
 
 [[files]]
