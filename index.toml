@@ -17,12 +17,16 @@ file = "config/chunksfadein.properties"
 hash = "a321f9b7191f09b4831d05d0df123f5f48ae2cb3c0aa7e7ef262a8e916bf86d9"
 
 [[files]]
+file = "config/companion-common.toml"
+hash = "545c24ba1285412a24585f704a305c3d34bf66a594495f0d467761772e8a57e0"
+
+[[files]]
 file = "config/creeperoverhaul.json"
 hash = "8636fc06d89ac4f08daa416fad7295d2434effa71d61e501186b0e2af29f5d34"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "739188daf1501f85897d6a0f7e6e307e8d4e12340c2d1dc834c55b1c665f83bf"
+hash = "13b46e4c57b70bc64effc2ef7838348b5ed7a74c638c20f4ffe2af16bb8486fa"
 
 [[files]]
 file = "config/customwindowtitle/icon-16.png"
@@ -90,7 +94,7 @@ hash = "d4359e41189d45d7ed0fb60f6595997b9e348b299c34fe50c80180afbe597cee"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "fe78b3c51b4ed427d7798420fbeb85ef19b26c190938c2da2f6cc176d0f6f2bb"
+hash = "8086d503bdb4ef8977e513e92f429af0109a03022a8c1cbb45d925367708ccd4"
 
 [[files]]
 file = "config/lithium.properties"
