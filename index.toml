@@ -996,16 +996,6 @@ hash = "970495778ec0ffeb208492811dfd0e135ce149843ba7174d0a629a8c67a1d400"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "bdc0026a453334abaa888c085ea5f34c7a818406a79b8c4702d5345f883787cb"
-metafile = true
-
-[[files]]
-file = "mods/fabric-language-kotlin.pw.toml"
-hash = "0fe83c99b29c952f464c7bfba9cc86cc4f834bef7834821433fe23ce3dd230e6"
-metafile = true
-
-[[files]]
 file = "mods/fabrication.pw.toml"
 hash = "79e5562142dbe96b8c55405ac7ffcbf3cf54080cae1f470d7d41ce8b68f6b8d7"
 metafile = true
@@ -1336,6 +1326,16 @@ hash = "0568443a68c429253e10bee7655f0baf669f1fd8dd06b39cb83423f6c522cadc"
 metafile = true
 
 [[files]]
+file = "mods/qkl.pw.toml"
+hash = "78fe291bc3d50234209d5b80735b469044f4d858dc8d3ba5bc38d1e098cb786f"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "7f16d61f278eb23f2778ebc55467391d06fd76a8710d5b857efb7762734fb281"
+metafile = true
+
+[[files]]
 file = "mods/reacharound.pw.toml"
 hash = "afedc35545eb5be295caee5e0cac50de9941e4487a1a78d54ead98cc69110843"
 metafile = true
@@ -1363,11 +1363,6 @@ metafile = true
 [[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
-metafile = true
-
-[[files]]
-file = "mods/server-chat-history.pw.toml"
-hash = "d0fc643e099e25a108693492f6f88913801dc96c52bb91d6ecc53fcdd1bb98d5"
 metafile = true
 
 [[files]]
