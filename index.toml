@@ -756,6 +756,11 @@ hash = "e8cd685b609577ab23e2a55ec3273a1ff9475daef52f0999b2c5d27f7c795f5c"
 metafile = true
 
 [[files]]
+file = "mods/block-runner.pw.toml"
+hash = "c14ea02ca24c7a76371140ee5525e46a0e19afb49700e99d79e6a82f5dc62ee5"
+metafile = true
+
+[[files]]
 file = "mods/blossom.pw.toml"
 hash = "c8ceea3f6e287ba1101c596bb9879d726af9b60b029dc5b0fa394a4796ef4f68"
 metafile = true
@@ -818,6 +823,11 @@ metafile = true
 [[files]]
 file = "mods/carry-on.pw.toml"
 hash = "7c49c8e6fd596ed9aeacca9eb10e5c981250d200ccb8fc72ce1c9123a9635301"
+metafile = true
+
+[[files]]
+file = "mods/cat_jam.pw.toml"
+hash = "8b0b60fd76dce37e4dfca02fddea1a491cde212f0987e361d3464bf69eab3c81"
 metafile = true
 
 [[files]]
@@ -1012,7 +1022,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "8724b054bc828825733260f59f7d87bf6e1549e8da7273fa1a9ae73cc434f344"
+hash = "ffa8437e10ac3fdd36147dd6b3beaf26224158ee80a88a1a13a7e0725405d8bd"
 metafile = true
 
 [[files]]
@@ -1022,7 +1032,7 @@ metafile = true
 
 [[files]]
 file = "mods/explosive-enhancement.pw.toml"
-hash = "970495778ec0ffeb208492811dfd0e135ce149843ba7174d0a629a8c67a1d400"
+hash = "f2f1e367db24438a14def157f593f2d7e6300c35a12054cec43a8e25a736edde"
 metafile = true
 
 [[files]]
@@ -1287,7 +1297,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "296b56b40ac9307ed1ca7fa5f2a74cd5f6f69177ae6da768856d2f0742e2f9cb"
+hash = "35a3ab16043b858cf78417311402c4f79c873660aa90b296fc7d079393e1dfb2"
 metafile = true
 
 [[files]]
@@ -1307,7 +1317,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
-hash = "f1ca8ddc248ddaf1a95cadc741c5f8387397ecfb3c957079add3b2881629de30"
+hash = "7629f7b9bc1b04f215a4bb9e6739ba03995f12efe8a810151a152ab9f1516866"
 metafile = true
 
 [[files]]
@@ -1373,6 +1383,11 @@ metafile = true
 [[files]]
 file = "mods/qsl.pw.toml"
 hash = "7f16d61f278eb23f2778ebc55467391d06fd76a8710d5b857efb7762734fb281"
+metafile = true
+
+[[files]]
+file = "mods/raknetify.pw.toml"
+hash = "3b0c4f48f9f7678f6c5284ac59ff99663f8477c3ee2993eabecfef6bebf14d00"
 metafile = true
 
 [[files]]
@@ -1447,7 +1462,7 @@ metafile = true
 
 [[files]]
 file = "mods/styled-chat.pw.toml"
-hash = "70da594f4eadb175c7eedd58ec67caeffb71ac5fc8c503fcddf04e545e78e590"
+hash = "b54a2d0cdb07a011d353462037ee68dfa2108767be8485c58f65fea4986cb934"
 metafile = true
 
 [[files]]
@@ -1463,11 +1478,6 @@ metafile = true
 [[files]]
 file = "mods/switchy-inventories.pw.toml"
 hash = "90146110e019a23019b59782f90a68302a4cc96270761046cee14c8ed6c1173a"
-metafile = true
-
-[[files]]
-file = "mods/switchy-proxy.pw.toml"
-hash = "066d3d8ddd77714bd0fcc306ac76c0f5529092cd78a2ffb73d84eee445510ce0"
 metafile = true
 
 [[files]]
@@ -1517,12 +1527,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "d20aae5fd2bcc4abc1ce6e45e3ef63fbfd09f57844fc23f68d5869779bb7b54d"
+hash = "26607b7008175d777a6aa9f8a1ec6764b6b356e616e466ae622243647a8c249a"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "de820e3dd2a2b21e80d382c18883758c0844a18c83d45fdb90b24af2eeb5bbe8"
+hash = "6016d6fd65636650a485a060b52dc58b0c9d2faaac81177aba80dea8953e5138"
 metafile = true
 
 [[files]]

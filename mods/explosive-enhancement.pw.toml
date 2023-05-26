@@ -1,13 +1,13 @@
 name = "Explosive Enhancement"
-filename = "explosive-enhancement-1.0.1-1.19.2.jar"
+filename = "explosive-enhancement-1.1.0-1.19.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/OSQ8mw2r/versions/fiUJwmkX/explosive-enhancement-1.0.1-1.19.2.jar"
+url = "https://cdn.modrinth.com/data/OSQ8mw2r/versions/s3UXlttX/explosive-enhancement-1.1.0-1.19.2.jar"
 hash-format = "sha1"
-hash = "e4c55f4f7cc586259bf98c28ec683133757258a9"
+hash = "8c3cba9de54ee5a55a0d6f80c1603f6f918654f0"
 
 [update]
 [update.modrinth]
 mod-id = "OSQ8mw2r"
-version = "fiUJwmkX"
+version = "s3UXlttX"
