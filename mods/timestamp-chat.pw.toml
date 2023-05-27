@@ -1,0 +1,13 @@
+name = "Timestamp Chat"
+filename = "timestamp-chat-2.2.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2lAPv09G/versions/2.2.4/timestamp-chat-2.2.4.jar"
+hash-format = "sha1"
+hash = "10e02f056664ad328c2a8420ec0dcb32dee7e306"
+
+[update]
+[update.modrinth]
+mod-id = "2lAPv09G"
+version = "MpNGUNZF"

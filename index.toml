@@ -981,6 +981,11 @@ hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
 
 [[files]]
+file = "mods/ears.pw.toml"
+hash = "bd52ab27068961afc53efd50c527302775b87fb176d10779e0d6a0428dcc51e4"
+metafile = true
+
+[[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "8f7e061bcc172caeaf207c072cb4fe91982db1f193a2490b8d4cd0d0247c9649"
 metafile = true
@@ -1498,6 +1503,11 @@ metafile = true
 [[files]]
 file = "mods/technomodel.pw.toml"
 hash = "b78f0d34ba266d92edbebf3940331a1d81458dc50b5c2790916612e465218dd9"
+metafile = true
+
+[[files]]
+file = "mods/timestamp-chat.pw.toml"
+hash = "5a2d646c2cfb2609ffb707226eeea8811f1318572794a3b0980fe13f3aede398"
 metafile = true
 
 [[files]]
