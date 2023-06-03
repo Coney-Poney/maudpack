@@ -1336,6 +1336,11 @@ hash = "bf37aa65287c8b70583b0984e970851e71731e997404fd155a45157af77f582b"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
+metafile = true
+
+[[files]]
 file = "mods/no-tutorial-toasts.pw.toml"
 hash = "31b8f514d0149813a7749d29d6c62c10911eb19cecf4a9c5bdb83a021dac5505"
 metafile = true
