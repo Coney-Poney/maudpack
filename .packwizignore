@@ -2,5 +2,4 @@
 /LICENSE
 /.github
 /version-name.sh
-/docs
-/mkdocs.yml
+/mkdocs
