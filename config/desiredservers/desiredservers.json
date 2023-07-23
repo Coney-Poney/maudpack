@@ -1,12 +1,7 @@
 [
   {
     "serverName": "Coney Poney SurvivalMod",
-    "serverIP": "survivalmod.celestecaprine.com",
-    "forceResourcePack": "true"
-  },
-  {
-    "serverName": "Coney Poney CreativeMod",
-    "serverIP": "creativemod.celestecaprine.com",
+    "serverIP": "shebang.gay",
     "forceResourcePack": "true"
   }
 ]

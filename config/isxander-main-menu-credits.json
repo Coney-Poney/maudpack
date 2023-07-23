@@ -5,7 +5,7 @@
     "bottom_left": [
       [
         {
-          "text": "Maudpack 2.0",
+          "text": "Maudpack 1.2",
           "color": "#9885B7",
           "clickEvent": {
             "action": "open_url",
@@ -56,7 +56,7 @@
     "bottom_right": [
       [
         {
-          "text": "Maudpack 2.0",
+          "text": "Maudpack 1.2",
           "color": "#9885B7",
           "clickEvent": {
             "action": "open_url",
