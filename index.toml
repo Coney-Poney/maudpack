@@ -1361,6 +1361,11 @@ hash = "bf98fdcfc6af334665be9b77e343c217cb9c7bc0c13ea43b6e9142816653f774"
 metafile = true
 
 [[files]]
+file = "mods/pack-it-up.pw.toml"
+hash = "e0bec10a85e3ace6fbe070017887a10b14e7a21266d201e41f839ea1869bbbb8"
+metafile = true
+
+[[files]]
 file = "mods/pettable.pw.toml"
 hash = "43f11eb7babcc05358ac4e1c4148776ee7fe5c224dc6d92ef7045649c799cbb5"
 metafile = true
@@ -1418,11 +1423,6 @@ metafile = true
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "39683680c7eeda074893c9ae8f4692c14f98227f8319c55849f079fd9adcc065"
-metafile = true
-
-[[files]]
-file = "mods/scout.pw.toml"
-hash = "10886b2438dab2be9b49c79eaf099771e526246f06c2a382ef56100bbcc73077"
 metafile = true
 
 [[files]]
