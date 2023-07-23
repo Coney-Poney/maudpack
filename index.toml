@@ -26,7 +26,7 @@ hash = "8636fc06d89ac4f08daa416fad7295d2434effa71d61e501186b0e2af29f5d34"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "13b46e4c57b70bc64effc2ef7838348b5ed7a74c638c20f4ffe2af16bb8486fa"
+hash = "13d0bdf723185ddfe7c15f2753b732fcae07db0a07192cb4051653cc6a09a881"
 
 [[files]]
 file = "config/customwindowtitle/icon-16.png"
@@ -38,7 +38,7 @@ hash = "8551036b1d1928c816699439a2d4126467fdbc1b14ee965b210ada66d1a0a89b"
 
 [[files]]
 file = "config/desiredservers/desiredservers.json"
-hash = "43829827940912dc57bce074e4aaa281d9ea8a128f847d492e029e957dda7cd5"
+hash = "171bf79ea7a343675c0524137887b887712592eae2ceeb3f18fee9928edf749d"
 
 [[files]]
 file = "config/emojiful.json"
@@ -94,7 +94,7 @@ hash = "d4359e41189d45d7ed0fb60f6595997b9e348b299c34fe50c80180afbe597cee"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "8086d503bdb4ef8977e513e92f429af0109a03022a8c1cbb45d925367708ccd4"
+hash = "3bca4eb5f886fb619b78896725a536af270efa3ece11f72e22ec6d0856f53e9c"
 
 [[files]]
 file = "config/lithium.properties"
